@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CElec" lessonTitle="Electrical System" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Introduction" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Welcome" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="3" mainMenuTitle="DC Electrical System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10" showInNav="yes" />
+    <page slideID="t02p003" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p005" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p007" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.10.1" showInNav="no" />
+    <page slideID="t02p008" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.10.1" showInNav="no" />
+    <page slideID="t02p009" navMenuTitle="Generator Control Switches" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10.1" showInNav="yes" />
+    <page slideID="t02p010" navMenuTitle="Generator Control Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10.7" showInNav="no" />
+    <page slideID="t02p011" navMenuTitle="Generator Control Switches" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10.7" showInNav="no" />
+    <page slideID="t02p012" navMenuTitle="Generator Control Switches" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10.7" showInNav="no" />
+    <page slideID="t02p013" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10" showInNav="yes" />
+    <page slideID="t02p014" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p015" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p016" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p017" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p018" navMenuTitle="Generator Control Boxes" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t02p019" navMenuTitle="Generator Warning Light" screenTitle="{nav}s" bottomTitle="{nav}s" refText="{topic}2.10.8.2" showInNav="yes" />
+    <page slideID="t02p020" navMenuTitle="Engine Start Switches" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.2.1" showInNav="yes" />
+    <page slideID="t02p021" navMenuTitle="Engine Start Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.2.1" showInNav="no" />
+    <page slideID="t02p022" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10.8.1" showInNav="yes" />
+    <page slideID="t02p023" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10.8.1" showInNav="no" />
+    <page slideID="t02p024" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10.8.1" showInNav="no" />
+    <page slideID="t02p025" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10.8.1" showInNav="no" />
+    <page slideID="t02p026" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.10.8.1" showInNav="no" />
+    <page slideID="t02p027" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.1" refText="{topic}2.10.1" showInNav="yes" />
+    <page slideID="t02p028" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.2" refText="{topic}2.10.1" showInNav="no" />
+    <page slideID="t02p029" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.3" refText="{topic}2.10.1" showInNav="no" />
+    <page slideID="t02p030" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.4" refText="{topic}2.10.2" showInNav="no" />
+    <page slideID="t02p031" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.5" refText="{topic}2.10.2" showInNav="no" />
+    <page slideID="t02p032" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.6" refText="{topic}2.10.2" showInNav="no" />
+    <page slideID="t02p033" navMenuTitle="Battery System" screenTitle="Battery Charge System" bottomTitle="Battery Charge System 1.7" refText="{topic}2.10.2" showInNav="no" />
+    <page slideID="t02p034" navMenuTitle="Battery System" screenTitle="Battery Loadmeters" bottomTitle="Battery Loadmeters" refText="{topic}2.10.3" showInNav="no" />
+    <page slideID="t02p035" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10.9" showInNav="yes" />
+    <page slideID="t02p036" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10.9" showInNav="no" />
+    <page slideID="t02p037" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10.9" showInNav="no" />
+    <page slideID="t02p038" navMenuTitle="APU Start" screenTitle="{nav}" bottomTitle="APU vs. Battery Start 1.1" refText="{topic}7.2.3.1" showInNav="yes" />
+    <page slideID="t02p039" navMenuTitle="APU Start" screenTitle="{nav}" bottomTitle="APU vs. Battery Start 1.2" refText="{topic}7.2.3.1" showInNav="no" />
+    <page slideID="t02p040" navMenuTitle="APU Start" screenTitle="{nav}" bottomTitle="APU vs. Battery Start 1.3" refText="{topic}7.2.3.1" showInNav="no" />
+    <page slideID="t02p041" navMenuTitle="APU Start" screenTitle="{nav}" bottomTitle="APU vs. Battery Start 1.4" refText="{topic}7.2.3.1" showInNav="no" />
+    <page slideID="t02p042" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="DC Busses 1.1" refText="{topic}2.10, Fig. 2-7" showInNav="yes" />
+    <page slideID="t02p043" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="DC Busses 1.2" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p044" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="DC Busses 1.3" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p045" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p046" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p047" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p048" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p049" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p050" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p051" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p052" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p053" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p054" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.13" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p055" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.14" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p056" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.15" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p057" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.16" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p058" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.17" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p059" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.18" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p060" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.19" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p061" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.20" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p062" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.21" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p063" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.22" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p064" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.23" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p065" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.24" refText="{topic}2.10, Fig. 2-7" showInNav="no" />
+    <page slideID="t02p066_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t02p067_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p068_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p069_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p070_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p071_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t02p072_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t02p073_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t02p074_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="77" mainMenuTitle="Lighting System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.16.1" showInNav="yes" />
+    <page slideID="t03p003" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p005" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p006" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p007" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p008" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p009" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p010" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p011" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p012" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p013" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t03p014" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.11.1" showInNav="yes" />
+    <page slideID="t03p015" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p016" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p017" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p018" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p019" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p020" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p021" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.11.1" showInNav="no" />
+    <page slideID="t03p022" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.11.2" showInNav="yes" />
+    <page slideID="t03p023" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p024" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p025" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p026" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p027" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p028" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p029" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p030" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t03p031_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p032_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p033_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p034_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p035_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="112" mainMenuTitle="Abnormal Conditions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t04p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p002" navMenuTitle="Generator Malfunctions" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.14.1" showInNav="yes" />
+    <page slideID="t04p003" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.14.1" showInNav="yes" />
+    <page slideID="t04p004" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p007" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p008" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p009" navMenuTitle="Single Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="Dual Generator Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.14.2" showInNav="yes" />
+    <page slideID="t04p011" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.14.3" showInNav="yes" />
+    <page slideID="t04p012" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t04p013" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t04p014" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t04p015" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t04p016" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.14.7" showInNav="yes" />
+    <page slideID="t04p017" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.14.7" showInNav="no" />
+    <page slideID="t04p018" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.14.7" showInNav="no" />
+    <page slideID="t04p019" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.14.7" showInNav="no" />
+    <page slideID="t04p020" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}15.14.7" showInNav="no" />
+    <page slideID="t04p021" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}20.2" showInNav="no" />
+    <page slideID="t04p022" navMenuTitle="Circuit Breakers" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}20.2" showInNav="no" />
+    <page slideID="t04p023_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t04p024_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no">
+      <page slideID="t04p024r1" navMenuTitle="Remediation: Generator Malfunctions" screenTitle="{nav} 1.1" bottomTitle="{nav} 1.2.1" refText="" showInNav="no" />
+      <page slideID="t04p024r2" navMenuTitle="Remediation: Generator Malfunctions" screenTitle="{nav} 1.2" bottomTitle="{nav} 1.2.2" refText="" showInNav="no" />
+      <page slideID="t04p024r3" navMenuTitle="Remediation: Generator Malfunctions" screenTitle="{nav} 1.3" bottomTitle="{nav} 1.2.3" refText="" showInNav="no" />
+      <page slideID="t04p024r4" navMenuTitle="Remediation: Generator Malfunctions" screenTitle="{nav} 1.4" bottomTitle="{nav} 1.2.4" refText="" showInNav="no" />
+      <page slideID="t04p024r5" navMenuTitle="Remediation: Generator Malfunctions" screenTitle="{nav} 1.5" bottomTitle="{nav} 1.2.5" refText="" showInNav="no" />
+    </page>
+    <page slideID="t04p025_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t04p026_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t04p027_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t04p028_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t04p029_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="146" mainMenuTitle="Summary" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Summary" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p002" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10" showInNav="yes" />
+    <page slideID="t05p003" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10.7" showInNav="no" />
+    <page slideID="t05p004" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.10.7" showInNav="no" />
+    <page slideID="t05p005" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.10.8.2" showInNav="no" />
+    <page slideID="t05p006" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.2.1" showInNav="no" />
+    <page slideID="t05p007" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.10.8.1" showInNav="no" />
+    <page slideID="t05p008" navMenuTitle="Battery System" screenTitle="Battery &amp; Battery Charge System" bottomTitle="Battery &amp; Battery Charge System 1.1" refText="{topic}2.10.2" showInNav="yes" />
+    <page slideID="t05p009" navMenuTitle="Battery System" screenTitle="Battery &amp; Battery Charge System" bottomTitle="Battery &amp; Battery Charge System 1.2" refText="{topic}2.10" showInNav="no" />
+    <page slideID="t05p010" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.10.9" showInNav="yes" />
+    <page slideID="t05p011" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.10.9" showInNav="no" />
+    <page slideID="t05p012" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}2.10, Fig 2-7" showInNav="yes" />
+    <page slideID="t05p013" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 2.2" refText="{topic}2.10, Fig 2-7" showInNav="no" />
+    <page slideID="t05p014" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 2.3" refText="{topic}2.10, Fig 2-7" showInNav="no" />
+    <page slideID="t05p015" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 2.4" refText="{topic}2.10, Fig 2-7" showInNav="no" />
+    <page slideID="t05p016" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}2.16.1" showInNav="yes" />
+    <page slideID="t05p017" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 2.2" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t05p018" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 2.3" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t05p019" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 2.4" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t05p020" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 2.5" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t05p021" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}2.11.1, Fig. 2-9" showInNav="yes" />
+    <page slideID="t05p022" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}2.11.2" showInNav="yes" />
+    <page slideID="t05p023" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 2.2" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t05p024" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 2.3" refText="{topic}2.11.2" showInNav="no" />
+    <page slideID="t05p025" navMenuTitle="Generator Malfunction" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}15.14.1" showInNav="yes" />
+    <page slideID="t05p026" navMenuTitle="Generator Malfunction" screenTitle="{nav}" bottomTitle="{nav} 2.2" refText="{topic}15.14.1" showInNav="yes" />
+    <page slideID="t05p027" navMenuTitle="Generator Malfunction" screenTitle="{nav}" bottomTitle="{nav} 2.3" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t05p028" navMenuTitle="Generator Malfunction" screenTitle="{nav}" bottomTitle="{nav} 2.4" refText="{topic}15.14.1" showInNav="no" />
+    <page slideID="t05p029" navMenuTitle="Generator Malfunction" screenTitle="{nav}" bottomTitle="{nav} 2.5" refText="{topic}15.14.1" showInNav="yes" />
+    <page slideID="t05p030" navMenuTitle="Current Limiter Failure" screenTitle="Current Limiter Malfunction" bottomTitle="Current Limiter Malfunction" refText="{topic}15.14.3" showInNav="yes" />
+    <page slideID="t05p031" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 2.1" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t05p032" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 2.2" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t05p033" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 2.3" refText="{topic}15.14.3" showInNav="no" />
+    <page slideID="t05p034" navMenuTitle="Circuit Breakers" screenTitle="{nav} Malfunction" bottomTitle="{nav} Malfunction 2.1" refText="{topic}15.14.7" showInNav="yes" />
+    <page slideID="t05p035" navMenuTitle="Circuit Breakers" screenTitle="{nav} Malfunction" bottomTitle="{nav} Malfunction 2.2" refText="{topic}20.2" showInNav="no" />
+  </topic>
+  <topic topicID="t06" slideNumStart="181" mainMenuTitle="Review Questions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t06p001" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p002_q" navMenuTitle="DC Generators" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS: Section 2.10.1" showInNav="yes" />
+    <page slideID="t06p003_q" navMenuTitle="Generator Loadmeters" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS: Section 2.10.8.1" showInNav="yes" />
+    <page slideID="t06p004_q" navMenuTitle="Battery System" screenTitle="Battery &amp; Battery Charge System" bottomTitle="Battery &amp; Battery Charge System 1.1" refText="NATOPS: Section 2.10.1" showInNav="yes" />
+    <page slideID="t06p005_q" navMenuTitle="Battery System" screenTitle="Battery &amp; Battery Charge System" bottomTitle="Battery &amp; Battery Charge System 1.2" refText="NATOPS: Section 2.10.4" showInNav="no" />
+    <page slideID="t06p006_q" navMenuTitle="Battery Charge" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="NATOPS: Section 2.10.4" showInNav="yes" />
+    <page slideID="t06p007_q" navMenuTitle="Battery Charge" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="NATOPS: Section 7.2" showInNav="no" />
+    <page slideID="t06p008_q" navMenuTitle="DC External Power" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS: Section 7.2" showInNav="yes" />
+    <page slideID="t06p009_q" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="NATOPS: Figure 2-7" showInNav="yes" />
+    <page slideID="t06p010_q" navMenuTitle="DC Busses" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="NATOPS: Figure 2-7" showInNav="no" />
+    <page slideID="t06p011_q" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="NATOPS: Section 2.16.1" showInNav="yes" />
+    <page slideID="t06p012_q" navMenuTitle="Annunciator Panel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="NATOPS: Section 2.16.1.1" showInNav="no" />
+    <page slideID="t06p013_q" navMenuTitle="Interior Lights" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS: Section 2.11.1" showInNav="yes" />
+    <page slideID="t06p014_q" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="NATOPS: Section 2.11.2" showInNav="yes" />
+    <page slideID="t06p015_q" navMenuTitle="Exterior Lights" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="NATOPS: Section 2.11.2" showInNav="no" />
+    <page slideID="t06p016_q" navMenuTitle="Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="NATOPS: Section 2.11.1" showInNav="yes" />
+    <page slideID="t06p017_q" navMenuTitle="Generator Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="NATOPS: Section 15.14.1" showInNav="no" />
+    <page slideID="t06p018_q" navMenuTitle="Battery Charge" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS: Section 15.14.4" showInNav="no" />
+    <page slideID="t06p019_q" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="NATOPS: Figure 2-7" showInNav="yes" />
+    <page slideID="t06p020_q" navMenuTitle="Current Limiter Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="NATOPS: Section 15.14.3" showInNav="no" />
+    <page slideID="t06p021_q" navMenuTitle="Circuit Breakers" screenTitle="{nav} Malfunction" bottomTitle="{nav} Malfunction 1.1" refText="NATOPS: Section 15.14.8" showInNav="yes" />
+    <page slideID="t06p022_q" navMenuTitle="Circuit Breakers" screenTitle="{nav} Malfunction" bottomTitle="{nav} Malfunction 1.2" refText="NATOPS: Section 15.14.7" showInNav="no" />
+  </topic>
+  <topic topicID="t07" slideNumStart="203" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" topicIsProgressCheck="yes" showInNav="no" showNavChildren="no">
+    <page slideID="t07p001" navMenuTitle="Progress Check" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t07p002_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 1" refText="" showInNav="no" />
+    <page slideID="t07p003_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 2" refText="" showInNav="no" />
+    <page slideID="t07p004_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 3" refText="" showInNav="no" />
+    <page slideID="t07p005_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 4" refText="" showInNav="no" />
+    <page slideID="t07p006_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 5" refText="" showInNav="no" />
+    <page slideID="t07p007_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 6" refText="" showInNav="no" />
+    <page slideID="t07p008_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 7" refText="" showInNav="no" />
+    <page slideID="t07p009_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 8" refText="" showInNav="no" />
+    <page slideID="t07p010_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t07p011_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 10" refText="" showInNav="no" />
+    <page slideID="t07p012_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t07p013_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 12" refText="" showInNav="no" />
+    <page slideID="t07p014_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 13" refText="" showInNav="no" />
+    <page slideID="t07p015_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 14" refText="" showInNav="no" />
+    <page slideID="t07p016_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 15" refText="" showInNav="no" />
+    <page slideID="t07p017_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 16" refText="" showInNav="no" />
+    <page slideID="t07p018_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 17" refText="" showInNav="no" />
+    <page slideID="t07p019_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 18" refText="" showInNav="no" />
+    <page slideID="t07p020_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 19" refText="" showInNav="no" />
+    <page slideID="t07p021_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 20" refText="" showInNav="no" />
+    <page slideID="t07p022_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 21" refText="" showInNav="no" />
+    <page slideID="t07p023" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

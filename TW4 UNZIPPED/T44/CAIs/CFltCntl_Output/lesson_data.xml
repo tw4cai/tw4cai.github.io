@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CFLTCNTRLS" lessonTitle="Flight Controls" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Introduction" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="3" mainMenuTitle="Primary Flight Controls" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12" showInNav="yes" />
+    <page slideID="t02p003" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p005" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p007" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p008" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p009" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p010" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.1" showInNav="yes" />
+    <page slideID="t02p011" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p012" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p013" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p014" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p015" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p016" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p017" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.12.1" showInNav="no" />
+    <page slideID="t02p018" navMenuTitle="Rudder Pedals" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.2" showInNav="yes" />
+    <page slideID="t02p019" navMenuTitle="Rudder Pedals" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.2" showInNav="no" />
+    <page slideID="t02p020_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p021_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t02p022_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}20.3.7.4" showInNav="no" />
+    <page slideID="t02p023_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.2" showInNav="no" />
+    <page slideID="t02p024_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12.2" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="27" mainMenuTitle="Secondary Flight Controls" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3" showInNav="yes" />
+    <page slideID="t03p003" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.3" showInNav="no" />
+    <page slideID="t03p005" navMenuTitle="Elevator Trim" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3" showInNav="yes" />
+    <page slideID="t03p006" navMenuTitle="Elevator Trim" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3" showInNav="no" />
+    <page slideID="t03p007" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3.2" showInNav="yes" />
+    <page slideID="t03p008" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p008a01" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p008a02" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p008a03" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p008a04" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p009" navMenuTitle="Trim Disconnect Switches" screenTitle="Trim Disconnect Switch" bottomTitle="Trim Disconnect Switches" refText="{topic}2.12.3.2" showInNav="yes" />
+    <page slideID="t03p010" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3.1" showInNav="yes" />
+    <page slideID="t03p011" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.1" showInNav="no" />
+    <page slideID="t03p011a01" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.1" showInNav="no" />
+    <page slideID="t03p011a02" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.1" showInNav="no" />
+    <page slideID="t03p011a03" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.1" showInNav="no" />
+    <page slideID="t03p012" navMenuTitle="Aileron Trim" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3.3" showInNav="yes" />
+    <page slideID="t03p013" navMenuTitle="Aileron Trim" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.3" showInNav="no" />
+    <page slideID="t03p014" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.3.4" showInNav="yes" />
+    <page slideID="t03p015" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p016" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p016a01" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.3a" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p016a02" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.3b" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p016a03" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav} 1.3c" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p017" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.5" showInNav="yes" />
+    <page slideID="t03p018" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t03p019" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.5.2" showInNav="no" />
+    <page slideID="t03p020" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.5.2" showInNav="no" />
+    <page slideID="t03p021" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12.5.2" showInNav="no" />
+    <page slideID="t03p022" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.12.5" showInNav="no" />
+    <page slideID="t03p023" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t03p024_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.5" showInNav="no" />
+    <page slideID="t03p025_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.3" showInNav="no" />
+    <page slideID="t03p026_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p027_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t03p028_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12.3.3" showInNav="no" />
+    <page slideID="t03p029_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p030_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t03p031_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t03p032_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t03p033_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t03p034_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="{topic}2.12.5.1" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="71" mainMenuTitle="Flight Control Lock" navMenuTitle="{tmain}" bottomTitle="Flight Control Locks" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t04p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p002" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.4" showInNav="yes" />
+    <page slideID="t04p003" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p003a01" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p003a02" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p003a03" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p004" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p006_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t04p007_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.4" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="81" mainMenuTitle="Summary" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p002" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12" showInNav="yes" />
+    <page slideID="t05p003" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t05p004" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.1" showInNav="yes" />
+    <page slideID="t05p005" navMenuTitle="Rudder Pedals" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.2" showInNav="yes" />
+    <page slideID="t05p006" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3" showInNav="yes" />
+    <page slideID="t05p007" navMenuTitle="Elevator Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3" showInNav="yes" />
+    <page slideID="t05p008" navMenuTitle="Elevator Trim Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.2" showInNav="yes" />
+    <page slideID="t05p009" navMenuTitle="Trim Disconnect Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.2" showInNav="yes" />
+    <page slideID="t05p010" navMenuTitle="Manual Elevator Trim Wheel" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.1" showInNav="yes" />
+    <page slideID="t05p011" navMenuTitle="Aileron Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.3" showInNav="yes" />
+    <page slideID="t05p012" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.4" showInNav="yes" />
+    <page slideID="t05p013" navMenuTitle="Rudder Trim Tab Control" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t05p014" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.5" showInNav="yes" />
+    <page slideID="t05p015" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t05p016" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.5.1, 2.12.5.2" showInNav="no" />
+    <page slideID="t05p017" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.12.5" showInNav="no" />
+    <page slideID="t05p018" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.12.4" showInNav="yes" />
+    <page slideID="t05p019" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t05p020" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.12.4" showInNav="no" />
+  </topic>
+  <topic topicID="t06" slideNumStart="101" mainMenuTitle="Review Questions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t06p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p002_q" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12" showInNav="yes" />
+    <page slideID="t06p003_q" navMenuTitle="Primary Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t06p004_q" navMenuTitle="Control Wheel" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}20.3.7.44" showInNav="no" />
+    <page slideID="t06p005_q" navMenuTitle="Rudder Pedals" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.2" showInNav="yes" />
+    <page slideID="t06p006_q" navMenuTitle="Rudder Pedals" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.2" showInNav="no" />
+    <page slideID="t06p007_q" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12" showInNav="yes" />
+    <page slideID="t06p008_q" navMenuTitle="Secondary Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.5" showInNav="no" />
+    <page slideID="t06p009_q" navMenuTitle="Elevator Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3" showInNav="yes" />
+    <page slideID="t06p010_q" navMenuTitle="Elevator Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t06p011_q" navMenuTitle="Aileron Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.3" showInNav="yes" />
+    <page slideID="t06p012_q" navMenuTitle="Aileron Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.3" showInNav="no" />
+    <page slideID="t06p013_q" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.4" showInNav="yes" />
+    <page slideID="t06p014_q" navMenuTitle="Rudder Trim" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t06p015_q" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.5.1" showInNav="yes" />
+    <page slideID="t06p016_q" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t06p017_q" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t06p018_q" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.4" showInNav="yes" />
+    <page slideID="t06p019_q" navMenuTitle="Flight Control Lock" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.12.4" showInNav="no" />
+  </topic>
+  <topic topicID="t07" slideNumStart="120" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " topicIsProgressCheck="yes" showInNav="no" showNavChildren="no">
+    <page slideID="t07p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t07p002_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 1" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t07p003_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 2" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t07p004_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 3" refText="{topic}20.3.7.4" showInNav="no" />
+    <page slideID="t07p005_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 4" refText="{topic}20.3.7.44" showInNav="no" />
+    <page slideID="t07p006_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 5" refText="{topic}2.12.2" showInNav="no" />
+    <page slideID="t07p007_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 6" refText="{topic}2.12.2" showInNav="no" />
+    <page slideID="t07p008_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 7" refText="{topic}2.12" showInNav="no" />
+    <page slideID="t07p009_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 8" refText="{topic}2.12.5" showInNav="no" />
+    <page slideID="t07p010_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 9" refText="{topic}2.12.3" showInNav="no" />
+    <page slideID="t07p011_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 10" refText="{topic}2.12.3.2" showInNav="no" />
+    <page slideID="t07p012_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 11" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t07p013_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 12" refText="{topic}2.12.3.3" showInNav="no" />
+    <page slideID="t07p014_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 13" refText="{topic}2.12.3.3" showInNav="no" />
+    <page slideID="t07p015_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 14" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t07p016_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 15" refText="{topic}2.12.3.4" showInNav="no" />
+    <page slideID="t07p017_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 16" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t07p018_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 17" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t07p019_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 18" refText="{topic}2.12.5.1" showInNav="no" />
+    <page slideID="t07p020_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 19" refText="{topic}2.12.4" showInNav="no" />
+    <page slideID="t07p021" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

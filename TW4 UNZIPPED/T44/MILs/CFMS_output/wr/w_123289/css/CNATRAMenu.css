@@ -1,0 +1,120 @@
+html, body {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    font: 16px Arial, Helvetica, sans-serif !important;
+}
+
+#menu {	
+	height:375px;
+	overflow-y:auto;
+}
+
+#CNATRAMenu{
+	display:flex;
+	flex-direction:column;
+	flex-wrap: wrap;
+	height: auto;
+}
+
+/* IE11 does not properly resize submenu when there are multiple columns */
+/*@media all and (-ms-high-contrast:none){
+	#CNATRAMenu { height: auto } 
+}*/
+
+
+#CNATRAMenu .menu-item{
+	position:relative;
+    background-color: lightgray;
+    border:2px solid black;
+    color:black;
+    font-weight: bold;
+    margin: 0 10px 5px 10px;
+}
+#CNATRAMenu .menu-item[disabled]{
+	color: #898989;
+}
+#CNATRAMenu .menu-item span{
+	position:relative;
+	z-index:2;
+	pointer-events:none;
+}
+
+.sub-menu{
+    display: none;
+    flex-direction: row;
+    border-top: #000000 solid 1px;
+    padding-top: 10px;
+
+}
+
+button{
+    cursor:pointer;
+    color:blue;
+    background: transparent;
+    border:none;
+    padding:0;
+    outline:none;
+}
+
+#buttonHitArea{
+	 position:absolute; 
+	 left:0; 
+	 top:0; 
+	 width:100%;
+	 height:30px;
+	 z-index:1;
+}
+.menu-item[complete] #buttonHitArea{
+    background-color: darkgray
+}
+
+#buttonHitArea:disabled{
+    background-color: lightgray;
+	cursor:default;
+}
+
+
+.sub-menu ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    list-style: none;
+    margin: 0 0 10px 10px;
+    padding: 0;
+    max-height: 20em;
+    font-size: 10pt;
+}
+
+.sub-menu li {
+    margin:0 0 5px 20px
+}
+
+.sub-menu li a {
+    color: blue;
+	text-decoration: none;
+}
+
+.submenu-button{
+	position:relative;
+    margin:0 5px 0 5px;
+    line-height: 30px;
+    color:blue;
+    width:20px;
+	z-index:2;
+}
+
+.submenu-button:disabled, .submenu-button[disabled] {
+    color:gray;
+    cursor: default;
+}
+
+.submenu-button-icon-up:before{
+    content:"\25ba";
+}
+
+.submenu-button-icon-down:before{
+    content:"\25e2";
+}

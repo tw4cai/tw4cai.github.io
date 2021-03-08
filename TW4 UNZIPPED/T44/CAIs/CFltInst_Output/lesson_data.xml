@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CFlt_Insts" lessonTitle="Flight Instruments" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Introduction" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p003" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p004" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="5" mainMenuTitle="Pitot-Static System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p002" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t02p003" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p777" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p005" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t02p007_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p008_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="14" mainMenuTitle="Primary Flight Display" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Primary Flight Display" screenTitle="Introduction" bottomTitle="Introduction" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Primary Flight Display" screenTitle="PFD Components" bottomTitle="PFD Components" refText="" showInNav="no" />
+    <page slideID="t03p003_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p004_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p004r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p005_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p005r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p006_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p006r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p007_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p007r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p008" navMenuTitle="Airspeed Indicator Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p009" navMenuTitle="Airspeed Tape" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p010" navMenuTitle="Digital Airspeed Readout" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p011" navMenuTitle="Trend Vector" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p012" navMenuTitle="Digital Mach Readout" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p013" navMenuTitle="Ground Acceleration Readout" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p014" navMenuTitle="ISS/LSC Marker" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p015" navMenuTitle="ISS/LSC Pre-Warn" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p016" navMenuTitle="Overspeed Cue" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p017" navMenuTitle="Airspeed Indicator Pre-Alert" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p018" navMenuTitle="Airspeed Indicator Over-Speed Alert" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p019" navMenuTitle="Fixed Airspeed References" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p020" navMenuTitle="Adjustable Airspeed References" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p021_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p022_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p023_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p024" navMenuTitle="Attitude Direction Indicator Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p025" navMenuTitle="ADI Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p026" navMenuTitle="Airplane Symbol" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p027" navMenuTitle="Flight Director Steering Command Bars" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p028" navMenuTitle="Wing Tips" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p029" navMenuTitle="Marker Beacon Annunciator" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p030" navMenuTitle="Roll Scale" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p031" navMenuTitle="Mistrim Annunciators" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p032" navMenuTitle="Autopilot/FGC NAV Annunc. Display Area" screenTitle="Autopilot/FGC NAV Annunciators Display Area" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p033" navMenuTitle="Roll Pointer" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p034" navMenuTitle="Slip/Skid Indicator" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p035" navMenuTitle="Vertical Deviation Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p036" navMenuTitle="Horizontal Deviation Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p037" navMenuTitle="Horizon Line" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p038" navMenuTitle="Pitch Scale" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p039" navMenuTitle="Excessive Pitch Chevrons" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p040" navMenuTitle="PFD Declutter" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p041_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p042_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p043_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p044" navMenuTitle="Altimeter Display" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t03p045" navMenuTitle="Altimeter Display" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p046" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p047" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p048" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p049" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p050" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t03p051" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t03p052" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t03p053" navMenuTitle="Altitude Tape" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t03p054" navMenuTitle="Pre-Select Altitude" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p055" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p056" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p057" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p058" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p059" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t03p060" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t03p061" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t03p062" navMenuTitle="Barometric Pressure Setting" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t03p063" navMenuTitle="RA/BARO MIN Window" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p064" navMenuTitle="Altitude Alerts" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p065" navMenuTitle="Flight Level 180 Alert" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p066" navMenuTitle="Pre-select Altitude Alert" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p067" navMenuTitle="RA/BARO Minimum Alert" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p068" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p069" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p070" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p071" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p072" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t03p073" navMenuTitle="Vertical Speed Display" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t03p074_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p075_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p076_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p077_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p078_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p079" navMenuTitle="Horizontal Situation Indicator Display" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t03p080" navMenuTitle="Horizontal Situation Indicator Display" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p081" navMenuTitle="HSI Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p082" navMenuTitle="Digital Heading and Lubber Line" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p083" navMenuTitle="Drift Angle Pointer" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p084" navMenuTitle="Selected Heading Bug" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p085" navMenuTitle="Active Course Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p086" navMenuTitle="Course Pointer &amp; Course Deviation indicator" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p087" navMenuTitle="Airplane Symbol and Lateral Deviation Scale" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p088" navMenuTitle="Wind Vector" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p089" navMenuTitle="Bearing Pointer" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p090" navMenuTitle="Line Select Keys" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t03p091" navMenuTitle="Line Select Keys" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p092_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p092r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p093_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t03p093r1" navMenuTitle="Review Question Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t03p094" navMenuTitle="Elapsed Timer" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p095" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p096" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p097" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p098" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p099" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t03p100" navMenuTitle="HSI Bottom Display" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t03p101" navMenuTitle="Weather Radar Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p102" navMenuTitle="Indication of Failures on the PFD" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p103_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="123" mainMenuTitle="Display Control Panel" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t04p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p002" navMenuTitle="BARO Set Knob" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p003" navMenuTitle="REFS Button" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p004" navMenuTitle="REFS Menu" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="MENU ADV Knob/PUSH MENU SET Button" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="NAV/BRG Button" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p007" navMenuTitle="RADAR Button" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p008" navMenuTitle="Different Radar Modes" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p009" navMenuTitle="STBY Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="TEST Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p011" navMenuTitle="MAP Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p012" navMenuTitle="WX Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p013" navMenuTitle="WX+T Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p014" navMenuTitle="TURB Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p015" navMenuTitle="Radar Mode LSKs Functions" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t04p016" navMenuTitle="Radar Mode LSKs Functions" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t04p017" navMenuTitle="Radar Mode LSKs Functions" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t04p018_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p019_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p020_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p021_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p022_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p023_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="146" mainMenuTitle="Standby Instruments" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Standby Instruments" screenTitle="Introduction" bottomTitle="Introduction" refText="" showInNav="yes" />
+    <page slideID="t05p002" navMenuTitle="Electronic Standby Instrument System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p003" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t05p004" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t05p005" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t05p006" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t05p007" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t05p008" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t05p009" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t05p010" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t05p011" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t05p012" navMenuTitle="ESIS Components" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t05p013" navMenuTitle="ESIS Start Up and Self Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p014" navMenuTitle="ESIS Power Up" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p015" navMenuTitle="ESIS Identification Screen" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p016" navMenuTitle="ESIS Sensor Alignment Mode" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p017" navMenuTitle="ESIS Failures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p018" navMenuTitle="ESIS Warnings" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p019_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p020_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p021_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p022_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p023_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p024_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p025_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p026_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p027_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p028_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p029_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p030_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p031_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p032" navMenuTitle="Turn and Slip Indicator" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t05p033" navMenuTitle="Turn and Slip Indicator" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t05p034" navMenuTitle="Turn and Slip Indicator" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t05p035" navMenuTitle="Magnetic Compass" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t05p036" navMenuTitle="Magnetic Compass" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t05p037_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p038_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p039_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t06" slideNumStart="185" mainMenuTitle="Summary" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t06p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p002" navMenuTitle="Pitot-Static System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p003" navMenuTitle="Primary Flight Display" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p004" navMenuTitle="Display Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p005" navMenuTitle="Standby Instruments" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+  </topic>
+  <topic topicID="t07" slideNumStart="190" mainMenuTitle="Review Questions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t07p000" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t07p001_q" navMenuTitle="Pitot-Static System" screenTitle="{nav}" bottomTitle="{nav}1.1" refText="" showInNav="yes" />
+    <page slideID="t07p002_q" navMenuTitle="Pitot-Static System" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p003_q" navMenuTitle="PFD" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t07p004_q" navMenuTitle="PFD" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no">
+      <page slideID="t07p004r1" navMenuTitle="PFD 1.2 Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t07p005_q" navMenuTitle="PFD" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no">
+      <page slideID="t07p005r1" navMenuTitle="PFD 1.3 Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t07p006_q" navMenuTitle="PFD" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no">
+      <page slideID="t07p006r1" navMenuTitle="PFD 1.4 Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t07p007_q" navMenuTitle="PFD" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no">
+      <page slideID="t07p007r1" navMenuTitle="PFD 1.5 Remediation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t07p008_q" navMenuTitle="ASI" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t07p009_q" navMenuTitle="ASI" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p010_q" navMenuTitle="ASI" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p011_q" navMenuTitle="ADI" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t07p012_q" navMenuTitle="ADI" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t07p013_q" navMenuTitle="ADI" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t07p014_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t07p015_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p016_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p017_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t07p018_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t07p019_q" navMenuTitle="ALI" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t07p020_q" navMenuTitle="LSKs" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t07p021_q" navMenuTitle="LSKs" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p022_q" navMenuTitle="LSKs" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p023_q" navMenuTitle="LSKs" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t07p024_q" navMenuTitle="HSI" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t07p025_q" navMenuTitle="HSI" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p026_q" navMenuTitle="HSI" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p027_q" navMenuTitle="Display Control Panel" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t07p028_q" navMenuTitle="Display Control Panel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p029_q" navMenuTitle="Display Control Panel" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p030_q" navMenuTitle="Display Control Panel" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t07p031_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t07p032_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t07p034_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t07p035_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t07p036_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t07p037_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t07p038_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t07p039_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t07p040_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t07p041_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t07p042_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t07p043_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+    <page slideID="t07p044_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.13" refText="" showInNav="no" />
+    <page slideID="t07p045_q" navMenuTitle="ESIS" screenTitle="{nav}" bottomTitle="{nav} 1.14" refText="" showInNav="no" />
+    <page slideID="t07p046_q" navMenuTitle="Turn &amp; Slip Indicator" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t07p047_q" navMenuTitle="Magnetic Compass" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t07p048_q" navMenuTitle="Magnetic Compass" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t08" slideNumStart="242" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" topicIsProgressCheck="yes" showInNav="no" showNavChildren="no">
+    <page slideID="t08p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t08p002_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 1" refText="" showInNav="no" />
+    <page slideID="t08p003_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 2" refText="" showInNav="no" />
+    <page slideID="t08p004_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 3" refText="" showInNav="no" />
+    <page slideID="t08p005_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 4" refText="" showInNav="no" />
+    <page slideID="t08p006_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 5" refText="" showInNav="no" />
+    <page slideID="t08p007_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 6" refText="" showInNav="no" />
+    <page slideID="t08p008_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 7" refText="" showInNav="no" />
+    <page slideID="t08p009_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 8" refText="" showInNav="no" />
+    <page slideID="t08p010_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t08p011_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 10" refText="" showInNav="no" />
+    <page slideID="t08p012_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t08p013_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 12" refText="" showInNav="no" />
+    <page slideID="t08p014_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 13" refText="" showInNav="no" />
+    <page slideID="t08p015_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 14" refText="" showInNav="no" />
+    <page slideID="t08p016_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 15" refText="" showInNav="no" />
+    <page slideID="t08p017_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 16" refText="" showInNav="no" />
+    <page slideID="t08p018_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 17" refText="" showInNav="no" />
+    <page slideID="t08p019_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 18" refText="" showInNav="no" />
+    <page slideID="t08p020_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 19" refText="" showInNav="no" />
+    <page slideID="t08p021_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 20" refText="" showInNav="no" />
+    <page slideID="t08p022_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 21" refText="" showInNav="no" />
+    <page slideID="t08p023_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 22" refText="" showInNav="no" />
+    <page slideID="t08p024_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 23" refText="" showInNav="no" />
+    <page slideID="t08p025_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 24" refText="" showInNav="no" />
+    <page slideID="t08p026_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 25" refText="" showInNav="no" />
+    <page slideID="t08p027_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 26" refText="" showInNav="no" />
+    <page slideID="t08p028_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 27" refText="" showInNav="no" />
+    <page slideID="t08p029_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 28" refText="" showInNav="no" />
+    <page slideID="t08p030_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 29" refText="" showInNav="no" />
+    <page slideID="t08p031_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 30" refText="" showInNav="no" />
+    <page slideID="t08p032_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 31" refText="" showInNav="no" />
+    <page slideID="t08p033_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 32" refText="" showInNav="no" />
+    <page slideID="t08p034_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 33" refText="" showInNav="no" />
+    <page slideID="t08p035_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 34" refText="" showInNav="no" />
+    <page slideID="t08p036_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 35" refText="" showInNav="no" />
+    <page slideID="t08p037_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 36" refText="" showInNav="no" />
+    <page slideID="t08p038_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 37" refText="" showInNav="no" />
+    <page slideID="t08p039_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 38" refText="" showInNav="no" />
+    <page slideID="t08p040_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 39" refText="" showInNav="no" />
+    <page slideID="t08p041_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 40" refText="" showInNav="no" />
+    <page slideID="t08p042_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 41" refText="" showInNav="no" />
+    <page slideID="t08p043_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 42" refText="" showInNav="no" />
+    <page slideID="t08p044_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 43" refText="" showInNav="no" />
+    <page slideID="t08p045_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 44" refText="" showInNav="no" />
+    <page slideID="t08p046_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 45" refText="" showInNav="no" />
+    <page slideID="t08p047_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 46" refText="" showInNav="no" />
+    <page slideID="t08p048_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 47" refText="" showInNav="no" />
+    <page slideID="t08p049" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

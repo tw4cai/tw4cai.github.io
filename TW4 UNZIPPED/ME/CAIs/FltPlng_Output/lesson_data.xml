@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="Multi-EngFltPln" lessonTitle="Flight Planning Module 4" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Flight Information Publication System (FLIP)" navMenuTitle="Lesson 1: {tmain}" bottomTitle="FLIP" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p002_rpt" navMenuTitle="Introduction" screenTitle="Enabling Learning Objectives" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p003_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p004_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p005_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p006_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p007_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p008_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p009_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.1" refText="" showInNav="no">
+      <page slideID="t01p009r1_rpt" navMenuTitle="About the DoD FLIP System" screenTitle="" bottomTitle="Remediation Question 1.1" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p010_rpt" navMenuTitle="Planning Documents - General Planning (GP) &amp; Area Planning (AP)" screenTitle="Planning Documents - General Planning &amp; Area Planning" bottomTitle="Planning Documents - GP &amp; AP 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p011_rpt" navMenuTitle="Planning Documents - General Planning (GP) &amp; Area Planning (AP)" screenTitle="Planning Documents - General Planning &amp; Area Planning" bottomTitle="Planning Documents - GP &amp; AP 1.2" refText="" showInNav="no" />
+    <page slideID="t01p012_rpt" navMenuTitle="Planning Documents - General Planning (GP) &amp; Area Planning (AP)" screenTitle="Planning Documents - General Planning &amp; Area Planning" bottomTitle="Planning Documents - GP &amp; AP 1.3" refText="" showInNav="no" />
+    <page slideID="t01p013_rpt" navMenuTitle="Planning Documents - General Planning (GP) &amp; Area Planning (AP)" screenTitle="Planning Documents - General Planning &amp; Area Planning" bottomTitle="Planning Documents - GP &amp; AP 1.4" refText="" showInNav="no" />
+    <page slideID="t01p014_rpt" navMenuTitle="Planning Documents - General Planning (GP) &amp; Area Planning (AP)" screenTitle="Planning Documents - General Planning &amp; Area Planning" bottomTitle="Planning Documents - GP &amp; AP 1.5" refText="" showInNav="no" />
+    <page slideID="t01p015_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no">
+      <page slideID="t01p015r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p016_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.6" refText="" showInNav="no" />
+    <page slideID="t01p017_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.7" refText="" showInNav="no" />
+    <page slideID="t01p018_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.8" refText="" showInNav="no" />
+    <page slideID="t01p019_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.9" refText="" showInNav="no" />
+    <page slideID="t01p020_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.3" refText="" showInNav="no">
+      <page slideID="t01p020r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p021_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.10" refText="" showInNav="no" />
+    <page slideID="t01p022_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.11" refText="" showInNav="no" />
+    <page slideID="t01p023_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.12" refText="" showInNav="no" />
+    <page slideID="t01p024_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.4" refText="" showInNav="no">
+      <page slideID="t01p024r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p025_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.5" refText="" showInNav="no">
+      <page slideID="t01p025r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p026_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.13" refText="" showInNav="no" />
+    <page slideID="t01p027_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.14" refText="" showInNav="no" />
+    <page slideID="t01p028_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.15" refText="" showInNav="no" />
+    <page slideID="t01p029_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.6" refText="" showInNav="no">
+      <page slideID="t01p029r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p030_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.16" refText="" showInNav="no" />
+    <page slideID="t01p031_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.17" refText="" showInNav="no" />
+    <page slideID="t01p032_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.18" refText="" showInNav="no" />
+    <page slideID="t01p033_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.19" refText="" showInNav="no" />
+    <page slideID="t01p034_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.20" refText="" showInNav="no" />
+    <page slideID="t01p035_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.21" refText="" showInNav="no" />
+    <page slideID="t01p036_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.7" refText="" showInNav="no">
+      <page slideID="t01p036r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p037_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.22" refText="" showInNav="no" />
+    <page slideID="t01p038_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.8" refText="" showInNav="no">
+      <page slideID="t01p038r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p039_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.23" refText="" showInNav="no" />
+    <page slideID="t01p040_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.24" refText="" showInNav="no" />
+    <page slideID="t01p041_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.9" refText="" showInNav="no">
+      <page slideID="t01p041r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p042_rpt" navMenuTitle="Planning Documents - General Planning &amp; Area Planning" screenTitle="{nav}" bottomTitle="Planning Documents - GP &amp; AP 1.25" refText="" showInNav="no" />
+    <page slideID="t01p043_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p044_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p045_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p046_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p047_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p048_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p049_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t01p050_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t01p051_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t01p052_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.10" refText="" showInNav="no">
+      <page slideID="t01p052r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p053_rpt" navMenuTitle="The Flight Information Handbook (FIH)" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t01p054_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.11" refText="" showInNav="no">
+      <page slideID="t01p054r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p055_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p056_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p057_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p058_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p059_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p060_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p061_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.12" refText="" showInNav="no">
+      <page slideID="t01p061r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p062_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t01p063_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t01p064_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t01p065_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t01p066_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t01p067_q_rpt" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.13" refText="" showInNav="no">
+      <page slideID="t01p067r1_rpt" navMenuTitle="Remediation Question" screenTitle="{nav}" bottomTitle="{nav} 1.13" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p068_rpt" navMenuTitle="Enroute and Terminal Publications" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="82" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" topicIsProgressCheck="yes" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p002_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 1" refText="" showInNav="no" />
+    <page slideID="t02p003_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 2" refText="" showInNav="no" />
+    <page slideID="t02p004_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 3" refText="" showInNav="no" />
+    <page slideID="t02p005_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 4" refText="" showInNav="no" />
+    <page slideID="t02p006_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 5" refText="" showInNav="no" />
+    <page slideID="t02p007_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 6" refText="" showInNav="no" />
+    <page slideID="t02p008_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 7" refText="" showInNav="no" />
+    <page slideID="t02p009_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 8" refText="" showInNav="no" />
+    <page slideID="t02p010" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t02p011_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t02p012_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 10" refText="" showInNav="no" />
+    <page slideID="t02p113" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t02p014_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t02p015_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 12" refText="" showInNav="no" />
+    <page slideID="t02p016_q" navMenuTitle="Question" screenTitle="" bottomTitle="{nav} 13" refText="" showInNav="no" />
+    <page slideID="t02p017" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="CMFD" lessonTitle="MULTI-FUNCTION DISPLAY Lesson 13" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Objectives 1-10" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objective #1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p003" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p004" navMenuTitle="IHAS Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p500" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p005_rpt" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav} Subsystems" refText="" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="MFD" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="Objective #2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p015" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p016" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p017" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p018" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p019" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p021" navMenuTitle="Objective #3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p026" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p040" navMenuTitle="Objective #5" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p501" navMenuTitle="Power Up/Self Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p041_rpt" navMenuTitle="Power Up/Self Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav} Self Test" refText="" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="TAS" screenTitle="{nav}" bottomTitle="{nav} Test" refText="" showInNav="no" />
+    <page slideID="t01p046_rpt" navMenuTitle="TAS" screenTitle="{nav}" bottomTitle="{nav} Test" refText="" showInNav="no" />
+    <page slideID="t01p047" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p055" navMenuTitle="Objective #8" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p056" navMenuTitle="Moving Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Moving Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p058_rpt" navMenuTitle="Moving Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Moving Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Map Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p061" navMenuTitle="Map Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p062" navMenuTitle="Using The Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p063" navMenuTitle="Data Interrogation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p064" navMenuTitle="AIRPORT INFO Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p065" navMenuTitle="AIRPORT INFO Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p066" navMenuTitle="AIRPORT INFO Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p067" navMenuTitle="AIRPORT INFO Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p068" navMenuTitle="Airspace Interrogation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p069" navMenuTitle="Objective #9" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p070" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p071" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p072" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p073" navMenuTitle="Terrain Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p074" navMenuTitle="Terrain Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p075" navMenuTitle="Terrain Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p076" navMenuTitle="Regional Database Americas" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p077" navMenuTitle="Terrain Inhibit Switch" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p078" navMenuTitle="Ground Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p079" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav} Self Test" refText="" showInNav="no" />
+    <page slideID="t01p080" navMenuTitle="Flight Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p081" navMenuTitle="Flight Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p082" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav} Limitations" refText="" showInNav="no" />
+    <page slideID="t01p083" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav} Limitations" refText="" showInNav="no" />
+    <page slideID="t01p084" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="Terrain Inhibit Switch" refText="" showInNav="no" />
+    <page slideID="t01p085" navMenuTitle="Objectives 11-12" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p086" navMenuTitle="Flight Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p087" navMenuTitle="Objective #12" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p088" navMenuTitle="TAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p089" navMenuTitle="TAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p090" navMenuTitle="Traffic Avoidance System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p091" navMenuTitle="Traffic Avoidance System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p092" navMenuTitle="Traffic Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p093" navMenuTitle="Traffic Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p094" navMenuTitle="Operational Control" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p095" navMenuTitle="TAS Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p096_rpt" navMenuTitle="TAS Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p097" navMenuTitle="Operational Control" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p098" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p099" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p100" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p101" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p102" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p103" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p104" navMenuTitle="TAS Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p105" navMenuTitle="IHAS Subsystems" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p106" navMenuTitle="IHAS Subsystems" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p107" navMenuTitle="IHAS Subsystems" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p108" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p109" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p110" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p111" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p112" navMenuTitle="MFD Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p113" navMenuTitle="Map Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p114" navMenuTitle="AIRPORT INFO Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p115" navMenuTitle="Auto Zoom" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p116" navMenuTitle="Auto Zoom" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p117" navMenuTitle="Map Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p118" navMenuTitle="Airspace Interrogation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p119" navMenuTitle="Power Up/Self Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p120" navMenuTitle="Regional Database Americas" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p121" navMenuTitle="EGPWS Ground Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p122" navMenuTitle="Terrain Inhibit Switch" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p123" navMenuTitle="Terrain Inhibit Switch" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p124" navMenuTitle="EGPWS Self Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p125" navMenuTitle="EGPWS Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p126" navMenuTitle="EGPWS Flight Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p127" navMenuTitle="EGPWS Flight Procedures" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p128" navMenuTitle="Terrain Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p129" navMenuTitle="Traffic Avoidance System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p130" navMenuTitle="Traffic Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p131" navMenuTitle="TAS Operational Control" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p132" navMenuTitle="TAS Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p133" navMenuTitle="TAS Symbology" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="107" mainMenuTitle="Integrated Hazard Avoidance System" navMenuTitle="IHAS" bottomTitle="IHAS" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p002" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p300" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p003_rpt" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="IHAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="112" mainMenuTitle="Moving Map" navMenuTitle="{tmain}" bottomTitle="{tmain}" showInNav="yes" showNavChildren="no">
+    <page slideID="t03p001" navMenuTitle="Moving Map" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p002" navMenuTitle="Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="115" mainMenuTitle="Enhanced Ground Proximity Warning System" navMenuTitle="EGPWS" bottomTitle="EGPWS" showInNav="yes" showNavChildren="no">
+    <page slideID="t04p001" navMenuTitle="EGPWS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p002" navMenuTitle="Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="117" mainMenuTitle="Traffic Avoidance System" navMenuTitle="TAS" bottomTitle="TAS" showInNav="yes" showNavChildren="no">
+    <page slideID="t05p001" navMenuTitle="TAS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p002" navMenuTitle="Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

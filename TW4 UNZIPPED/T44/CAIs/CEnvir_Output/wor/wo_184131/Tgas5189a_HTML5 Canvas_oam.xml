@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Tgas5189a_HTML5 Canvas" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_332.png" width="620" height="672"/>
+<require type="other" src="Tgas5189a_HTML5 Canvas.html"/>
+<require type="javascript" src="libs/1.0.0/createjs.min.js"/>
+<require type="image" src="images/bitmap1.png"/>
+<require type="image" src="images/bitmap100.jpg"/>
+<require type="image" src="images/bitmap102.jpg"/>
+<require type="image" src="images/bitmap104.png"/>
+<require type="image" src="images/bitmap11.jpg"/>
+<require type="image" src="images/bitmap13.jpg"/>
+<require type="image" src="images/bitmap15.jpg"/>
+<require type="image" src="images/bitmap17.jpg"/>
+<require type="image" src="images/bitmap19.jpg"/>
+<require type="image" src="images/bitmap21.jpg"/>
+<require type="image" src="images/bitmap23.jpg"/>
+<require type="image" src="images/bitmap25.jpg"/>
+<require type="image" src="images/bitmap27.jpg"/>
+<require type="image" src="images/bitmap29.jpg"/>
+<require type="image" src="images/bitmap3.png"/>
+<require type="image" src="images/bitmap31.jpg"/>
+<require type="image" src="images/bitmap33.jpg"/>
+<require type="image" src="images/bitmap36.jpg"/>
+<require type="image" src="images/bitmap38.jpg"/>
+<require type="image" src="images/bitmap40.jpg"/>
+<require type="image" src="images/bitmap42.jpg"/>
+<require type="image" src="images/bitmap44.jpg"/>
+<require type="image" src="images/bitmap46.jpg"/>
+<require type="image" src="images/bitmap48.jpg"/>
+<require type="image" src="images/bitmap5.jpg"/>
+<require type="image" src="images/bitmap50.jpg"/>
+<require type="image" src="images/bitmap52.jpg"/>
+<require type="image" src="images/bitmap54.jpg"/>
+<require type="image" src="images/bitmap56.jpg"/>
+<require type="image" src="images/bitmap58.jpg"/>
+<require type="image" src="images/bitmap60.jpg"/>
+<require type="image" src="images/bitmap62.jpg"/>
+<require type="image" src="images/bitmap64.jpg"/>
+<require type="image" src="images/bitmap66.jpg"/>
+<require type="image" src="images/bitmap68.jpg"/>
+<require type="image" src="images/bitmap7.jpg"/>
+<require type="image" src="images/bitmap70.jpg"/>
+<require type="image" src="images/bitmap72.jpg"/>
+<require type="image" src="images/bitmap74.jpg"/>
+<require type="image" src="images/bitmap76.jpg"/>
+<require type="image" src="images/bitmap78.jpg"/>
+<require type="image" src="images/bitmap80.jpg"/>
+<require type="image" src="images/bitmap82.jpg"/>
+<require type="image" src="images/bitmap84.jpg"/>
+<require type="image" src="images/bitmap86.jpg"/>
+<require type="image" src="images/bitmap88.jpg"/>
+<require type="image" src="images/bitmap9.jpg"/>
+<require type="image" src="images/bitmap90.jpg"/>
+<require type="image" src="images/bitmap92.jpg"/>
+<require type="image" src="images/bitmap94.jpg"/>
+<require type="image" src="images/bitmap96.jpg"/>
+<require type="image" src="images/bitmap98.jpg"/>
+<require type="other" src="images/_preloader.gif"/>
+<require type="folder" src="libs"/>
+<require type="folder" src="libs/1.0.0"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="620" hidden="true"/>
+<property name="default-height" defaultValue="672" hidden="true"/>
+<property name="resizable" defaultValue="true" hidden="true"/>
+<property name="centering" defaultValue="both" hidden="true"/>
+<property name="scaling" defaultValue="both" hidden="true"/>
+<property name="html-page" defaultValue="Tgas5189a_HTML5 Canvas.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>

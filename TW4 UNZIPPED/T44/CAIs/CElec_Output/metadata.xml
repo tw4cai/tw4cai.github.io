@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:pkgprop="http://www.scorm.com/xsd/ScormEnginePackageProperties"
+     xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomLoose.xsd 
+                         http://www.scorm.com/xsd/ScormEnginePackageProperties ScormEnginePackageProperties.xsd">
+    <general>
+
+        
+        <identifier>
+            <catalog>URI</catalog>
+            <entry>com.adobe.captivate.CAI_T-44C</entry>
+        </identifier>
+
+        
+        <title>
+            <string language="en-US">T-44C</string>
+        </title>
+
+        
+        <language>en-US</language>
+		
+        
+        <description>
+			<string language="en-US">Course Description.</string>
+		</description>
+		
+		<keyword><string language="en-US">Training</string></keyword>
+
+    </general>
+
+    <lifeCycle>
+        
+        <version>
+            <string language="en-US">4.0</string>
+        </version>
+
+        <contribute>
+            <role>
+                <source>LOMv1.0</source>
+                <value>author</value>
+            </role>
+            <entity>
+<![CDATA[BEGIN:VCARD
+VERSION:2.1
+FN: Author
+ORG: Company
+EMAIL;PREF;INTERNET: author@company.com
+URL:  www.company.com
+
+END:VCARD]]>
+            </entity>
+            <date>
+                <dateTime>2020-09-08</dateTime>
+        
+                <description>
+                    <string language="en-US">This is the date this course was published from Adobe Captivate.</string>
+                </description>
+            </date>
+        </contribute>
+
+        <contribute>
+            <role>
+                <source>LOMv1.0</source>
+                <value>publisher</value>
+            </role>
+            <entity>
+<![CDATA[BEGIN:VCARD
+VERSION:2.1
+FN:Adobe Captivate
+NOTE: version 11.5.1.499      
+URL: http://www.adobe.com/products/captivate.html
+END:VCARD]]>
+            </entity>
+        </contribute>
+
+        <contribute>
+            <role>
+                <source>LOMv1.0</source>
+                <value>technical implementer</value>
+            </role>
+            <entity>
+<![CDATA[BEGIN:VCARD 
+VERSION:2.1 
+FN:SCORM Driver 
+ORG:Rustici Software,LLC 
+TEL;WORK;VOICE:1.615.376.9867  
+ADR;WORK:;;3351 Aspen Grove Dr. Suite 300;Franklin;TN;37067;United States of America  
+EMAIL;PREF;INTERNET:info@scorm.com 
+URL: http://scorm.com 
+END:VCARD]]>
+            </entity>
+        </contribute>
+        
+    </lifeCycle>
+
+    <technical>
+
+        <format>text/html</format>
+        <format>application/x-javascript</format>
+        <format>application/x-shockwave-flash</format>
+        <format>text/css</format>
+
+        <size>15</size>
+        
+
+        
+        <duration>
+            <duration>PT0H0M</duration>
+            <description>
+                <string language="en-us">Time it will take to watch this presentation directly from start to finish.</string>
+            </description>
+        </duration>
+        <pkgprop:ScormEnginePackageProperties xmlns="http://www.scorm.com/xsd/ScormEnginePackageProperties">
+            <appearence>
+                <displayStage>
+                    <desired>
+                        
+                        <width>1024</width>
+                        <height>768</height>
+                        <fullscreen>no</fullscreen>
+                    </desired>
+                    <required>
+                        <width>0</width>
+                        <height>0</height>
+                        <fullscreen>no</fullscreen>
+                    </required>
+                </displayStage>
+            </appearence>
+            <behavior>
+                <alwaysFlowToFirstSco>yes</alwaysFlowToFirstSco>
+                <rollupEmptySetToUnknown>yes</rollupEmptySetToUnknown>
+            </behavior>
+        </pkgprop:ScormEnginePackageProperties>
+    </technical>
+
+    <educational>
+        
+        <typicalLearningTime>
+            <duration>PT0H0M</duration>
+            <description>
+                <string language="en-us">Time it will typically take for a learner to complete this course.</string>
+            </description>
+        </typicalLearningTime>
+
+        
+        <description>
+            <string>Course Description. </string>
+        </description>
+
+        
+        <language>en-US</language>
+
+    </educational>
+
+    <rights>
+
+        <copyrightAndOtherRestrictions>
+            <source>LOMv1.0</source>
+            <value>yes</value>
+        </copyrightAndOtherRestrictions>
+
+        
+        <description>
+            <string>Project Copyright</string>
+        </description>
+
+    </rights>
+</lom>

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Raavi';
+  font-style: normal;
+  src: url('../fonts/Raavi.eot');
+  src: url('../fonts/Raavi.eot?#iefix') format('embedded-opentype'),
+  local('FontName'),
+  url('../fonts/Raavi.woff2') format('woff2'),
+  url('../fonts/Raavi.woff') format('woff'),
+  url('../fonts/Raavi.ttf') format('truetype'),
+  url('../fonts/Raavi.svg') format('svg');
+  }

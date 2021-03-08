@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CLandGear" lessonTitle="Landing Gear System" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Objectives 1-7" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p002" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p004" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p005" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p008" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p011" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p012" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="yes" />
+    <page slideID="t01p015" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p016" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p017" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p018" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p019" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="Landing Gear Squat Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.6" showInNav="no" />
+    <page slideID="t01p021" navMenuTitle="Downlock and Uplock Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p022" navMenuTitle="Downlock and Uplock Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="topic}2.13.1.7" showInNav="no" />
+    <page slideID="t01p023" navMenuTitle="Downlock and Uplock Switches" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.1.8" showInNav="no" />
+    <page slideID="t01p024" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p025" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p026" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="Rudder Brake System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p028" navMenuTitle="Braking System" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.14" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="Braking System" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.14" showInNav="no" />
+    <page slideID="t01p030" navMenuTitle="Braking System" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.14" showInNav="no" />
+    <page slideID="t01p031" navMenuTitle="Braking System" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.14" showInNav="no" />
+    <page slideID="t01p032" navMenuTitle="Wheel Brake Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}13.3" showInNav="yes" />
+    <page slideID="t01p033" navMenuTitle="Nosewheel Steering" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.13.3" showInNav="yes" />
+    <page slideID="t01p034" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Landing Gear System" showInNav="yes" />
+    <page slideID="t01p035" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Landing Gear System" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Wheel Up Warning System" showInNav="no" />
+    <page slideID="t01p037" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Wheel Up Warning System" showInNav="no" />
+    <page slideID="t01p038" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Squat Switches" showInNav="no" />
+    <page slideID="t01p039" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Squat Switches" showInNav="no" />
+    <page slideID="t01p040" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Downlock &amp; Uplock Switches" showInNav="no" />
+    <page slideID="t01p041" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Downlock &amp; Uplock Switches" showInNav="no" />
+    <page slideID="t01p042" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Alternate Extension System" showInNav="no" />
+    <page slideID="t01p043" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Alternate Extension System" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Brake System" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Brake System" showInNav="no" />
+    <page slideID="t01p046" navMenuTitle="Review Questions" screenTitle="" bottomTitle="{nav}" refText="Brake System" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="47" mainMenuTitle="Landing Gear Operation" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="{tmain}" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Landing Gear Operation Exercise" screenTitle="{nav}" bottomTitle="Operation" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p003" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="52" mainMenuTitle="Alternate Extension System" navMenuTitle="{tmain}" bottomTitle="Alternate Extension Sys." refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Alternate Extension System Exercise" screenTitle="{nav}" bottomTitle="Operation" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="55" mainMenuTitle="Wheels Up Warning System" navMenuTitle="{tmain}" bottomTitle="Wheels Up Warning Sys." refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t04p001" navMenuTitle="Wheels Up Warning System Exercise" screenTitle="{nav}" bottomTitle="Operation" refText="" showInNav="yes" />
+    <page slideID="t04p002" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p003" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p004" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p007" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p008" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p009" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="Operation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

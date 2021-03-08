@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Tgas5263c_HTML5 Canvas" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_573.png" width="615" height="672"/>
+<require type="other" src="index.html"/>
+<require type="javascript" src="libs/1.0.0/createjs.min.js"/>
+<require type="image" src="images/bitmap1.png"/>
+<require type="image" src="images/bitmap11.jpg"/>
+<require type="image" src="images/bitmap2.jpg"/>
+<require type="image" src="images/bitmap5.png"/>
+<require type="image" src="images/bitmap7.png"/>
+<require type="image" src="images/bitmap9.jpg"/>
+<require type="other" src="images/_preloader.gif"/>
+<require type="folder" src="libs"/>
+<require type="folder" src="libs/1.0.0"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="615" hidden="true"/>
+<property name="default-height" defaultValue="672" hidden="true"/>
+<property name="resizable" defaultValue="true" hidden="true"/>
+<property name="centering" defaultValue="both" hidden="true"/>
+<property name="scaling" defaultValue="both" hidden="true"/>
+<property name="html-page" defaultValue="index.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>

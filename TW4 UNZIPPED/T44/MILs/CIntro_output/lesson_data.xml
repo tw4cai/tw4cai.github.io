@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CIntro" lessonTitle="INTRODUCTION" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Sample Question" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Sample Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="2" mainMenuTitle="Button Tutorial" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="Button Descriptions" screenTitle="{nav}" bottomTitle="{nav}" refText="NATOPS Reference" showInNav="no" />
+  </topic>
+</lesson>

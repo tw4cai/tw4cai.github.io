@@ -1,0 +1,18 @@
+<!DOCTYPE HTML><HTML><HEAD><TITLE>Adobe Captivate Widget</TITLE><META NAME="generator" content="Adobe Captivate 6"></META><script type="text/javascript" src="../../assets/js/jquery-3.3.1.min.js"></script><script type="text/javascript" src="../../assets/js/OpenAjaxManagedHub-all.js"></script><script type="text/javascript" src="js/GlobalLessonData.js"></script><link rel="stylesheet" type="text/css" href="css/Playbar.css"></link><script type="text/javascript">function init(){	hubClient = new OpenAjax.hub.IframeHubClient({HubClient: {onSecurityAlert: function() {}		   }	});	hubClient.connect(function() {		var id = hubClient.getClientID();		hubClient.publish(id+"_loaded","loaded");	});}function deInit() { if(hubClient) { 	hubClient.disconnect(); } } jQuery(document).ready(function() {	init();});</script></HEAD><BODY><button id="mainMenuButton" title="Menu" class="playbar-button square-button" disabled></button>
+	<button id="helpButton" title="Help" class="playbar-button square-button"></button>
+	<button id="backButton" title="Back" class="playbar-button square-button" disabled></button>
+	<button id="repeatButton" title="Repeat" class="playbar-button square-button" disabled></button>
+	<button id="forwardButton" title="Forward" class="playbar-button square-button" disabled></button>
+	<button id="resumeButton" title="Resume" class="playbar-button" disabled></button>
+	<button id="exitButton" class="playbar-button"></button>
+	<div id="julianDate" class="text-field" style="color:#000000;"></div>	
+	<div id="currentSlide" class="text-field" style="color:#FFFF00; display:none;"></div>
+	<div id="topicTitle" class="text-field"></div>
+	<div id="questionID" class="text-field"></div>
+	<div id="questionCount" class="text-field"></div>
+	<div id="pageCount" class="text-field"></div>
+	<div id="screenTitle" class="text-field"></div>
+	<div id="examDate" class="text-field"></div>
+	<div id="examTime" class="text-field"></div>
+	<div id="reference" class="text-field"></div>
+	<div id="showLabelsHotspot"></div><script type="text/javascript" src="js/Playbar.js"></script></BODY></HTML>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Tgae2142_HTML5 Canvas" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_108.png" width="624" height="672"/>
+<require type="other" src="index.html"/>
+<require type="javascript" src="libs/1.0.0/createjs.min.js"/>
+<require type="image" src="images/bitmap1.jpg"/>
+<require type="image" src="images/bitmap101.jpg"/>
+<require type="image" src="images/bitmap103.jpg"/>
+<require type="image" src="images/bitmap105.jpg"/>
+<require type="image" src="images/bitmap107.jpg"/>
+<require type="image" src="images/bitmap109.jpg"/>
+<require type="image" src="images/bitmap11.jpg"/>
+<require type="image" src="images/bitmap111.jpg"/>
+<require type="image" src="images/bitmap113.jpg"/>
+<require type="image" src="images/bitmap115.jpg"/>
+<require type="image" src="images/bitmap117.jpg"/>
+<require type="image" src="images/bitmap119.jpg"/>
+<require type="image" src="images/bitmap121.jpg"/>
+<require type="image" src="images/bitmap123.jpg"/>
+<require type="image" src="images/bitmap125.jpg"/>
+<require type="image" src="images/bitmap127.jpg"/>
+<require type="image" src="images/bitmap129.jpg"/>
+<require type="image" src="images/bitmap13.jpg"/>
+<require type="image" src="images/bitmap131.jpg"/>
+<require type="image" src="images/bitmap133.jpg"/>
+<require type="image" src="images/bitmap135.jpg"/>
+<require type="image" src="images/bitmap137.jpg"/>
+<require type="image" src="images/bitmap139.jpg"/>
+<require type="image" src="images/bitmap141.jpg"/>
+<require type="image" src="images/bitmap143.jpg"/>
+<require type="image" src="images/bitmap145.jpg"/>
+<require type="image" src="images/bitmap147.jpg"/>
+<require type="image" src="images/bitmap149.jpg"/>
+<require type="image" src="images/bitmap15.jpg"/>
+<require type="image" src="images/bitmap151.jpg"/>
+<require type="image" src="images/bitmap153.jpg"/>
+<require type="image" src="images/bitmap155.jpg"/>
+<require type="image" src="images/bitmap157.jpg"/>
+<require type="image" src="images/bitmap159.jpg"/>
+<require type="image" src="images/bitmap161.jpg"/>
+<require type="image" src="images/bitmap163.jpg"/>
+<require type="image" src="images/bitmap165.jpg"/>
+<require type="image" src="images/bitmap167.jpg"/>
+<require type="image" src="images/bitmap169.jpg"/>
+<require type="image" src="images/bitmap17.jpg"/>
+<require type="image" src="images/bitmap171.jpg"/>
+<require type="image" src="images/bitmap173.jpg"/>
+<require type="image" src="images/bitmap175.jpg"/>
+<require type="image" src="images/bitmap177.jpg"/>
+<require type="image" src="images/bitmap179.jpg"/>
+<require type="image" src="images/bitmap181.jpg"/>
+<require type="image" src="images/bitmap183.jpg"/>
+<require type="image" src="images/bitmap185.jpg"/>
+<require type="image" src="images/bitmap187.jpg"/>
+<require type="image" src="images/bitmap189.jpg"/>
+<require type="image" src="images/bitmap19.jpg"/>
+<require type="image" src="images/bitmap191.jpg"/>
+<require type="image" src="images/bitmap193.jpg"/>
+<require type="image" src="images/bitmap195.jpg"/>
+<require type="image" src="images/bitmap197.jpg"/>
+<require type="image" src="images/bitmap199.jpg"/>
+<require type="image" src="images/bitmap201.jpg"/>
+<require type="image" src="images/bitmap203.jpg"/>
+<require type="image" src="images/bitmap205.jpg"/>
+<require type="image" src="images/bitmap207.jpg"/>
+<require type="image" src="images/bitmap209.jpg"/>
+<require type="image" src="images/bitmap21.jpg"/>
+<require type="image" src="images/bitmap211.jpg"/>
+<require type="image" src="images/bitmap213.jpg"/>
+<require type="image" src="images/bitmap215.jpg"/>
+<require type="image" src="images/bitmap217.jpg"/>
+<require type="image" src="images/bitmap219.jpg"/>
+<require type="image" src="images/bitmap221.jpg"/>
+<require type="image" src="images/bitmap223.jpg"/>
+<require type="image" src="images/bitmap225.jpg"/>
+<require type="image" src="images/bitmap227.jpg"/>
+<require type="image" src="images/bitmap229.jpg"/>
+<require type="image" src="images/bitmap23.jpg"/>
+<require type="image" src="images/bitmap231.jpg"/>
+<require type="image" src="images/bitmap233.jpg"/>
+<require type="image" src="images/bitmap235.jpg"/>
+<require type="image" src="images/bitmap237.jpg"/>
+<require type="image" src="images/bitmap239.jpg"/>
+<require type="image" src="images/bitmap241.jpg"/>
+<require type="image" src="images/bitmap243.jpg"/>
+<require type="image" src="images/bitmap245.jpg"/>
+<require type="image" src="images/bitmap247.jpg"/>
+<require type="image" src="images/bitmap249.jpg"/>
+<require type="image" src="images/bitmap25.jpg"/>
+<require type="image" src="images/bitmap27.jpg"/>
+<require type="image" src="images/bitmap29.jpg"/>
+<require type="image" src="images/bitmap3.jpg"/>
+<require type="image" src="images/bitmap31.jpg"/>
+<require type="image" src="images/bitmap33.jpg"/>
+<require type="image" src="images/bitmap35.jpg"/>
+<require type="image" src="images/bitmap37.jpg"/>
+<require type="image" src="images/bitmap39.jpg"/>
+<require type="image" src="images/bitmap41.jpg"/>
+<require type="image" src="images/bitmap43.jpg"/>
+<require type="image" src="images/bitmap45.jpg"/>
+<require type="image" src="images/bitmap47.jpg"/>
+<require type="image" src="images/bitmap49.jpg"/>
+<require type="image" src="images/bitmap5.jpg"/>
+<require type="image" src="images/bitmap51.jpg"/>
+<require type="image" src="images/bitmap53.jpg"/>
+<require type="image" src="images/bitmap55.jpg"/>
+<require type="image" src="images/bitmap57.jpg"/>
+<require type="image" src="images/bitmap59.jpg"/>
+<require type="image" src="images/bitmap61.jpg"/>
+<require type="image" src="images/bitmap63.jpg"/>
+<require type="image" src="images/bitmap65.jpg"/>
+<require type="image" src="images/bitmap67.jpg"/>
+<require type="image" src="images/bitmap69.jpg"/>
+<require type="image" src="images/bitmap7.jpg"/>
+<require type="image" src="images/bitmap71.jpg"/>
+<require type="image" src="images/bitmap73.jpg"/>
+<require type="image" src="images/bitmap75.jpg"/>
+<require type="image" src="images/bitmap77.jpg"/>
+<require type="image" src="images/bitmap79.jpg"/>
+<require type="image" src="images/bitmap81.jpg"/>
+<require type="image" src="images/bitmap83.jpg"/>
+<require type="image" src="images/bitmap85.jpg"/>
+<require type="image" src="images/bitmap87.jpg"/>
+<require type="image" src="images/bitmap89.jpg"/>
+<require type="image" src="images/bitmap9.jpg"/>
+<require type="image" src="images/bitmap91.jpg"/>
+<require type="image" src="images/bitmap93.jpg"/>
+<require type="image" src="images/bitmap95.jpg"/>
+<require type="image" src="images/bitmap97.jpg"/>
+<require type="image" src="images/bitmap99.jpg"/>
+<require type="other" src="images/_preloader.gif"/>
+<require type="folder" src="libs"/>
+<require type="folder" src="libs/1.0.0"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="624" hidden="true"/>
+<property name="default-height" defaultValue="672" hidden="true"/>
+<property name="resizable" defaultValue="true" hidden="true"/>
+<property name="centering" defaultValue="both" hidden="true"/>
+<property name="scaling" defaultValue="both" hidden="true"/>
+<property name="html-page" defaultValue="index.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>

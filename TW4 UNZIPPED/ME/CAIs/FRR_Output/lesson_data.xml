@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="MultiEngFRR" lessonTitle="Flight Rules and Regulations Module 3" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Flight Rules and Regulations Part 1" navMenuTitle="Lesson 1 {tmain}" bottomTitle="Flight Rules and Reg. Pt 1" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p002_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p003_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p004_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p005_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p006_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p007_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p008_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p009_rpt" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p010_q" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p010r1" navMenuTitle="Remediation Question 1.1" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p011_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p011r1" navMenuTitle="Remediation Question 1.2" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p012" navMenuTitle="Instrument Ratings and Qualifications" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t01p013_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p013r1" navMenuTitle="Remediation Question 1.3" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p014" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p015" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.2" refText="" showInNav="no" />
+    <page slideID="t01p016" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.3" refText="" showInNav="no" />
+    <page slideID="t01p017" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.4" refText="" showInNav="no" />
+    <page slideID="t01p018" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.5" refText="" showInNav="no" />
+    <page slideID="t01p019" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.6" refText="" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.7" refText="" showInNav="no" />
+    <page slideID="t01p021" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.8" refText="" showInNav="no" />
+    <page slideID="t01p022" navMenuTitle="Airfield Restrictions" screenTitle="Air Restrictions" bottomTitle="Air Restrictions 1.9" refText="" showInNav="no" />
+    <page slideID="t01p023_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p023r1" navMenuTitle="Remediation Question 1.4" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p024_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p024r1" navMenuTitle="Remediation Question 1.5" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p025" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p026" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p028" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p029_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p029r1" navMenuTitle="Remediation Question 1.6" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p030" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p031" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p032" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t01p033" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t01p034_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p034r1" navMenuTitle="Remediation Question 1.7" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p035" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t01p037" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t01p038" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+    <page slideID="t01p039" navMenuTitle="Flight Plans" screenTitle="Flight Plans" bottomTitle="{nav} 1.13" refText="" showInNav="no" />
+    <page slideID="t01p040_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p040r1" navMenuTitle="Remediation Question" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p041" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.14" refText="" showInNav="no" />
+    <page slideID="t01p042" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.15" refText="" showInNav="no" />
+    <page slideID="t01p043" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.16" refText="" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.17" refText="" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.18" refText="" showInNav="no" />
+    <page slideID="t01p046" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.19" refText="" showInNav="no" />
+    <page slideID="t01p047" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.20" refText="" showInNav="no" />
+    <page slideID="t01p048_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p048r1" navMenuTitle="Remediation Question 1.9" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p049" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.21" refText="" showInNav="no" />
+    <page slideID="t01p050" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.22" refText="" showInNav="no" />
+    <page slideID="t01p051" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.23" refText="" showInNav="no" />
+    <page slideID="t01p052" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.24" refText="" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav} 1.25" refText="" showInNav="no" />
+    <page slideID="t01p054_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p054r1" navMenuTitle="Remediation Question 1.10" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p055" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p056" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p058" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p061" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t01p062_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p062r1" navMenuTitle="Remediation Question 1.11" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p063_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p063r1" navMenuTitle="Remediation Question 1.12" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p064" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t01p065" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t01p066" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t01p067" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t01p068_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p068r1" navMenuTitle="Remediation Question 1.13" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p070" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+    <page slideID="t01p071" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.13" refText="" showInNav="no" />
+    <page slideID="t01p072" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.14" refText="" showInNav="no" />
+    <page slideID="t01p073_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p073r1" navMenuTitle="Remediation Question 1.14" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p074" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.15" refText="" showInNav="no" />
+    <page slideID="t01p075" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.16" refText="" showInNav="no" />
+    <page slideID="t01p076" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.17" refText="" showInNav="no" />
+    <page slideID="t01p077" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.18" refText="" showInNav="no" />
+    <page slideID="t01p078" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.19" refText="" showInNav="no" />
+    <page slideID="t01p079" navMenuTitle="Flight Plan Handling" screenTitle="{nav}" bottomTitle="{nav} 1.20" refText="" showInNav="no" />
+    <page slideID="t01p081_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p081r1" navMenuTitle="Remediation Question 1.15" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p082_q_rpt" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t01p082r1" navMenuTitle="Remediation Question 1.16" screenTitle="" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t01p083" navMenuTitle="Summary - Part 1" screenTitle="Summary" bottomTitle="Summary" refText="" showInNav="yes">
+      <page slideID="t01p084" navMenuTitle="Learning Objectives" screenTitle="Summary" bottomTitle="Summary" refText="" showInNav="no" />
+    </page>
+  </topic>
+  <topic topicID="t02" slideNumStart="99" mainMenuTitle="Flight Rules and Regulations Part 2" navMenuTitle="Lesson 2 {tmain}" bottomTitle="Flight Rules and Reg. Pt 2" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="Introduction 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p002_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="Introduction 1.2" refText="" showInNav="no" />
+    <page slideID="t02p003_rpt" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="Introduction 1.3" refText="" showInNav="no" />
+    <page slideID="t02p004_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p005_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p006_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p007_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p008_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p009_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t02p010_q_rpt" navMenuTitle="Review Question" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p010r1" navMenuTitle="Remediation Question 1.1" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p011_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t02p012_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t02p013_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t02p014_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t02p015_rpt" navMenuTitle="Weather" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t02p016_q_rpt" navMenuTitle="Review Question" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p016r1" navMenuTitle="Remediation Question 1.2" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p017_q_rpt" navMenuTitle="Review Question" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p017r1" navMenuTitle="Remediation Question 1.3" screenTitle="Weather" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p018_rpt" navMenuTitle="Fuel Requirements" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p019_rpt" navMenuTitle="Fuel Requirements" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p020_rpt" navMenuTitle="Fuel Requirements" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p021_rpt" navMenuTitle="Fuel Requirements" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p022_rpt" navMenuTitle="Fuel Requirements" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p023_q_rpt" navMenuTitle="Review Question" screenTitle="Fuel Requirements" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p023r1" navMenuTitle="Remediation Question 1.4" screenTitle="Fuel Requirements" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p024_q_rpt" navMenuTitle="Review Question" screenTitle="Fuel Requirements" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p024r1" navMenuTitle="Remediation Question 1.5" screenTitle="Fuel Requirements" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p025_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p026_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p027_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p028_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p029_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p030_rpt" navMenuTitle="What to Use - OPNAV" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t02p031_q_rpt" navMenuTitle="Review Question" screenTitle="What to Use - OPNAV" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p031r1" navMenuTitle="Remediation Question 1.6" screenTitle="What to Use - OPNAV" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p032_q_rpt" navMenuTitle="Review Question" screenTitle="What to Use - OPNAV" bottomTitle="{nav}" refText="" showInNav="no">
+      <page slideID="t02p032r1" navMenuTitle="Remediation Question 1.7" screenTitle="What to Use - OPNAV" bottomTitle="{nav}" refText="" showInNav="no" />
+    </page>
+    <page slideID="t02p033_rpt" navMenuTitle="Summary - Part 2" screenTitle="Summary" bottomTitle="Summary 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p034_rpt" navMenuTitle="Summary - Part 2" screenTitle="Summary" bottomTitle="Summary 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="140" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="Progress Check" refText="" topicIsProgressCheck="yes" showInNav="yes" showNavChildren="no">
+    <page slideID="t03p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p002_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 1" refText="" showInNav="no" />
+    <page slideID="t03p003_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 2" refText="" showInNav="no" />
+    <page slideID="t03p004_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 3" refText="" showInNav="no" />
+    <page slideID="t03p005_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 4" refText="" showInNav="no" />
+    <page slideID="t03p006_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 5" refText="" showInNav="no" />
+    <page slideID="t03p007_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 6" refText="" showInNav="no" />
+    <page slideID="t03p008_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 7" refText="" showInNav="no" />
+    <page slideID="t03p009_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 8" refText="" showInNav="no" />
+    <page slideID="t03p010_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t03p011_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 10" refText="" showInNav="no" />
+    <page slideID="t03p012_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t03p013_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 12" refText="" showInNav="no" />
+    <page slideID="t03p014_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 13" refText="" showInNav="no" />
+    <page slideID="t03p015_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 14" refText="" showInNav="no" />
+    <page slideID="t03p016_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 15" refText="" showInNav="no" />
+    <page slideID="t03p017_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 16" refText="" showInNav="no" />
+    <page slideID="t03p018_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 17" refText="" showInNav="no" />
+    <page slideID="t03p019_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 18" refText="" showInNav="no" />
+    <page slideID="t03p020_rpt" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

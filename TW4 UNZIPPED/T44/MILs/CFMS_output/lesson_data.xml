@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="CFMS" lessonTitle="Flight Management System" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="1-10" refText="" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p003_" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p004" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p005" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="CDU Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p011" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p012" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p015" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p016" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p017" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p018" navMenuTitle="CDU Screen Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p019" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p021" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p022" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p023" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p024" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p025" navMenuTitle="Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p026" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p028" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p030" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p031" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p032" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p033" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p034" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p035" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p037" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p038" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p039" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p040" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p041" navMenuTitle="CDU Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p042" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p043" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p046" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p047" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p048" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p049" navMenuTitle="Communication and Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p050" navMenuTitle="Position Update" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p051" navMenuTitle="Position Update" screenTitle="{nav}" bottomTitle="{nav} Procedure" refText="" showInNav="no" />
+    <page slideID="t01p052" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Direct - To Waypoint Procedure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p054" navMenuTitle="Direct - To Waypoint Procedure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="11-15" refText="" showInNav="no" />
+    <page slideID="t01p055" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p056" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Loss Control of Radio Sensor System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p058" navMenuTitle="Loss of Air Data 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Loss of Air Data 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Loss of Attitude Data 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p061" navMenuTitle="Loss of Attitude Data 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p062" navMenuTitle="Integrated Hazard Avoidance System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p063" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p064" navMenuTitle="CDU Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p065" navMenuTitle="Holding" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p066" navMenuTitle="Holding" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p067" navMenuTitle="Holding" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p068" navMenuTitle="Holding" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p069" navMenuTitle="Holding" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p070" navMenuTitle="Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p071" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p072" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p073" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p074" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p075" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p076" navMenuTitle="FMS Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p077" navMenuTitle="FMS Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p078" navMenuTitle="FMS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p079" navMenuTitle="FMS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p080" navMenuTitle="CDU Screen" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p081" navMenuTitle="CDU Screen" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p082" navMenuTitle="FMS" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p083" navMenuTitle="CDU Screen" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p084" navMenuTitle="Line Select Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p085" navMenuTitle="Function Keys" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p086" navMenuTitle="Pre-flight Functionality Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p087" navMenuTitle="Pre-flight Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p088" navMenuTitle="Position Update" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p089" navMenuTitle="Communication &amp; Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p090" navMenuTitle="Communication &amp; Navigation" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p091" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p092" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p093" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p094" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p095" navMenuTitle="Hold" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p096" navMenuTitle="Hold" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p097" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p098" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p099" navMenuTitle="Missed Approach" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p100" navMenuTitle="CDU Messages" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p101" navMenuTitle="CDU Messages" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p102" navMenuTitle="PFD Messages" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p103" navMenuTitle="Lost of Air Data" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p104" navMenuTitle="Dual Generator Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p105" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p106" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p107" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p108" navMenuTitle="Flight Planning" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="110" mainMenuTitle="Flight Management System" navMenuTitle="{tmain}" bottomTitle="Control Display Unit" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="Flight Management System" screenTitle="{nav}" bottomTitle="Control Display Unit" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="111" mainMenuTitle="Control Display Unit" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t03p001" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p002" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p005" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p006" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p007" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p008" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p009" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p010" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p011" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p012" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p013" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p014" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p015" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p016" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p017" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p018" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p019" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p020" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p021" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p022" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p023" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p024" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p025" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p026" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p027" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p028" navMenuTitle="Control Display Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

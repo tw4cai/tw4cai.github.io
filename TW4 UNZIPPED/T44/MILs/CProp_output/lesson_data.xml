@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CProp" lessonTitle="Propeller System Lesson 5" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Propeller System - Normal" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Propeller System - Normal Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p004" navMenuTitle="How It Works 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p005" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="Objective RPM Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p011" navMenuTitle="RPM Limitations 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.15.1" showInNav="yes" />
+    <page slideID="t01p012" navMenuTitle="RPM Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="RPM Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="Objective Prop Linkage Fails" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p015" navMenuTitle="Prop Linkage Fails 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.15.1" showInNav="yes" />
+    <page slideID="t01p016" navMenuTitle="Prop Linkage Fails" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p017" navMenuTitle="Prop Linkage Fails" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p018" navMenuTitle="Prop Linkage Fails" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p019" navMenuTitle="Prop Linkage Fails" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="Objective EP: Prop Governor Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p021" navMenuTitle="EP for Prop Governor Failure 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.15.1" showInNav="yes" />
+    <page slideID="t01p022" navMenuTitle="EP for Prop Governor Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p023" navMenuTitle="EP for Prop Governor Failure" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p024" navMenuTitle="EP for Prop Governor Failure" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.15.1" showInNav="no" />
+    <page slideID="t01p025" navMenuTitle="Objective Prop Linkage Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p026" navMenuTitle="Prop Linkage Failure 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}15.15.2" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="Prop Linkage Failure" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.15.2" showInNav="no" />
+    <page slideID="t01p028" navMenuTitle="Prop Linkage Failure" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.15.2" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="Prop Linkage Failure" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.15.2" showInNav="no" />
+    <page slideID="t01p030" navMenuTitle="Objective Overspeed Governor" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p031" navMenuTitle="Overspeed Governor" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.3" showInNav="yes" />
+    <page slideID="t01p032" navMenuTitle="Objective Autofeater System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p033" navMenuTitle="Autofeather System 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.1" showInNav="yes" />
+    <page slideID="t01p034" navMenuTitle="Autofeather System" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.8.1" showInNav="no" />
+    <page slideID="t01p035" navMenuTitle="Autofeather System" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.8.1" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Autofeather System" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.8.1" showInNav="no" />
+    <page slideID="t01p037" navMenuTitle="Objective Autofeather Switch" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p038" navMenuTitle="Propeller Autofeather Switch 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.1.1" showInNav="yes" />
+    <page slideID="t01p039" navMenuTitle="Propeller Autofeather Switch" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.8.1.1" showInNav="no" />
+    <page slideID="t01p040" navMenuTitle="Propeller Autofeather Switch" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.8.1.1" showInNav="no" />
+    <page slideID="t01p041" navMenuTitle="Objective Autofeather Lights" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p042" navMenuTitle="Autofeather Lights 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.1.2" showInNav="yes" />
+    <page slideID="t01p043" navMenuTitle="Autofeather Lights" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.8.1.2" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Autofeather Lights" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.8.1.2" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Objective Synchrophaser System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p046" navMenuTitle="Synchrophaser System (Prop Sync) 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.2" showInNav="yes" />
+    <page slideID="t01p047" navMenuTitle="Synchrophaser System (Prop Sync)" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.8.2" showInNav="no" />
+    <page slideID="t01p048" navMenuTitle="Synchrophaser System (Prop Sync)" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.8.2" showInNav="no" />
+    <page slideID="t01p049" navMenuTitle="Synchrophaser System (Prop Sync)" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.8.2" showInNav="no" />
+    <page slideID="t01p050" navMenuTitle="Objective Synchrophaser Switch" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}" showInNav="yes" />
+    <page slideID="t01p051" navMenuTitle="Propeller Synchrophaser Switch 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.2" showInNav="yes" />
+    <page slideID="t01p052" navMenuTitle="Propeller Synchrophaser Switch" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.8.2" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Objective Prop Sync On Light" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p054" navMenuTitle="Prop Sync On Light" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.8.2" showInNav="yes" />
+    <page slideID="t01p055" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="System Components and Operation" refText="" showInNav="yes" />
+    <page slideID="t01p056" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="System Components and Operation" refText="" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Propeller Control System" refText="" showInNav="no" />
+    <page slideID="t01p058" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Propeller Control System" refText="" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Overspeed Governor" refText="" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Overspeed Governor" refText="" showInNav="no" />
+    <page slideID="t01p061" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="RPM Limitations" refText="" showInNav="no" />
+    <page slideID="t01p062" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="RPM Limitations" refText="" showInNav="no" />
+    <page slideID="t01p063" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Autofeather System" refText="" showInNav="no" />
+    <page slideID="t01p064" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Autofeather System" refText="" showInNav="no" />
+    <page slideID="t01p065" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Synchrophaser System" refText="" showInNav="no" />
+    <page slideID="t01p066" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Synchrophaser System" refText="" showInNav="no" />
+    <page slideID="t01p067" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Prop Governor Failure" refText="" showInNav="no" />
+    <page slideID="t01p068" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Prop Governor Failure" refText="" showInNav="no" />
+    <page slideID="t01p069" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Prop Linkage Failure" refText="" showInNav="no" />
+    <page slideID="t01p070" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="Prop Linkage Failure" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="71" mainMenuTitle="Propeller System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Propeller System - Normal" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Propeller System - Normal Labels" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p003" navMenuTitle="How It Works 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p004" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p005" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p007" navMenuTitle="How It Works" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+  </topic>
+</lesson>

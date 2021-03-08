@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="CNavCom" lessonTitle="Navigation and Communication" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Objectives 1-10" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p200" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p005" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p560" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p561" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p011" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p012" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p015" navMenuTitle="RTU Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p016" navMenuTitle="RTU Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="Self Test" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p030" navMenuTitle="Self Test" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p033" navMenuTitle="Changing a Displayed Frequency" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p034" navMenuTitle="NAV Main Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p035" navMenuTitle="NAV Preset Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Other NAV Functions" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Changing a Displayed Frequency" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p054" navMenuTitle="COM Main Display Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p055" navMenuTitle="COM Preset Page" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p056" navMenuTitle="Emergency VHF Guard" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives 11-20" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p077" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p450" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p079" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p080" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p081" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p082" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p083" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p085" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p086" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p087" navMenuTitle="V/UHF Control Panel Components 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p088" navMenuTitle="V/UHF Control Panel Components 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p089" navMenuTitle="V/UHF Control Panel Display" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p090" navMenuTitle="V/UHF Control Panel Display" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p091" navMenuTitle="TACAN Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p093" navMenuTitle="TACAN Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p094" navMenuTitle="V/UHF Control Panel Operations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p003" navMenuTitle="Objectives 21-24" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p118" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="V/UHF Transceiver Built-In Test 1.1" refText="" showInNav="no" />
+    <page slideID="t01p119" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="V/UHF Transceiver Built-In Test 1.2" refText="" showInNav="no" />
+    <page slideID="t01p120" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="V/UHF Transceiver Built-In Test 1.3" refText="" showInNav="no" />
+    <page slideID="t01p121" navMenuTitle="V/UHF Transceiver Errors" screenTitle="{nav}" bottomTitle="V/UHF Tranceiver Errors" refText="" showInNav="no" />
+    <page slideID="t01p122" navMenuTitle="Objective 23" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p123" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p124" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p125" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p126" navMenuTitle="Audio Control Panel Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p127" navMenuTitle="Audio Control Panel Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p128" navMenuTitle="Audio Control Panel Components" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p129" navMenuTitle="Audio Control Panel Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p130" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p131" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p132" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p133" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p134" navMenuTitle="RTU Top Level Page" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p135" navMenuTitle="RTU Top Level Page" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p136" navMenuTitle="RTU Top Level Page" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p137" navMenuTitle="RTU - COM" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p138" navMenuTitle="RTU - COM" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p139" navMenuTitle="RTU - NAV" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p140" navMenuTitle="RTU - NAV" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p141" navMenuTitle="RTU - NAV" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p142" navMenuTitle="RTU - ATC" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p143" navMenuTitle="RTU Self Test" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p144" navMenuTitle="RTU Self Test" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p145" navMenuTitle="RTU Self Test" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p146" navMenuTitle="V/UHF Control Panel Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p147" navMenuTitle="V/UHF Control Panel Operations" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p148" navMenuTitle="V/UHF Control Panel Operations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p149" navMenuTitle="V/UHF Control Panel Operations" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t01p150" navMenuTitle="V/UHF Control Panel Operations" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t01p151" navMenuTitle="V/UHF Transceiver Built-in Test" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p152" navMenuTitle="V/UHF Transceiver Errors and Warnings" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p153" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p154" navMenuTitle="Audio Control Panel Components" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p155" navMenuTitle="Audio Control Panel Power Failure" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p156" navMenuTitle="TACAN" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t01p157" navMenuTitle="TACAN" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="85" mainMenuTitle="Radio Tuning Unit" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t02p001" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p002" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p003" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p005" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p007" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p008" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p009" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p010" navMenuTitle="Radio Tuning Unit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="95" mainMenuTitle="V/UHF Transceiver" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t03p001" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p002" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p005" navMenuTitle="V/UHF Transceiver" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="100" mainMenuTitle="Audio Control Panel" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t04p001" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p002" navMenuTitle="Audio Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="102" mainMenuTitle="TACAN Control Panel" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t05p001" navMenuTitle="TACAN Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p002" navMenuTitle="TACAN Control Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

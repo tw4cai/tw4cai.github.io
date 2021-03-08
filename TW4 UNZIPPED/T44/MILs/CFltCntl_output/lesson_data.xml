@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CFltCntrls" lessonTitle="Flight Control System" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002_i" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <branch branchID="a">
+        <page slideID="t01p002a01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="b">
+        <page slideID="t01p002b01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="c">
+        <page slideID="t01p002c01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="d">
+        <page slideID="t01p002d01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="e">
+        <page slideID="t01p002e01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="f">
+        <page slideID="t01p002f01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="g">
+        <page slideID="t01p002g01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+    </page>
+    <page slideID="t01p003" navMenuTitle="Flight Controls Diagram" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p004" navMenuTitle="Flight Control Lock 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p005" navMenuTitle="Flight Control Lock 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p006" navMenuTitle="Flight Control Lock 1.3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="Flight Control Lock 1.4" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="Flight Control Lock 1.5" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="Flight Control Lock 1.6" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="Wing Flaps" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p011" navMenuTitle="Wing Flap Operation 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p012" navMenuTitle="Wing Flap Operation 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="Wing Flap Operation 1.3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p014" navMenuTitle="Review Questions" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p015" navMenuTitle="Review Question 1" screenTitle="" bottomTitle="{nav} (Primary Flt Controls)" refText="" showInNav="yes" />
+    <page slideID="t01p016" navMenuTitle="Review Question 2" screenTitle="" bottomTitle="{nav} (Primary Flt Controls)" refText="" showInNav="yes" />
+    <page slideID="t01p017" navMenuTitle="Review Question 3" screenTitle="" bottomTitle="{nav} (Control Wheel)" refText="" showInNav="yes" />
+    <page slideID="t01p018" navMenuTitle="Review Question 4" screenTitle="" bottomTitle="{nav} (Control Wheel)" refText="" showInNav="yes" />
+    <page slideID="t01p019" navMenuTitle="Review Question 5" screenTitle="" bottomTitle="{nav} (Rudder Pedals)" refText="" showInNav="yes" />
+    <page slideID="t01p020" navMenuTitle="Review Question 6" screenTitle="" bottomTitle="{nav} (Rudder Pedals)" refText="" showInNav="yes" />
+    <page slideID="t01p021" navMenuTitle="Review Question 7" screenTitle="" bottomTitle="{nav} (Secondary Flt Controls)" refText="" showInNav="yes" />
+    <page slideID="t01p022" navMenuTitle="Review Question 8" screenTitle="" bottomTitle="{nav} (Secondary Flt Controls)" refText="" showInNav="yes" />
+    <page slideID="t01p023" navMenuTitle="Review Question 9" screenTitle="" bottomTitle="{nav} (Elevator Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p024" navMenuTitle="Review Question 10" screenTitle="" bottomTitle="{nav} (Elevator Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p025" navMenuTitle="Review Question 11" screenTitle="" bottomTitle="{nav} (Aileron Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p026" navMenuTitle="Review Question 12" screenTitle="" bottomTitle="{nav} (Aileron Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p027" navMenuTitle="Review Question 13" screenTitle="" bottomTitle="{nav} (Rudder Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p028" navMenuTitle="Review Question 14" screenTitle="" bottomTitle="{nav} (Rudder Trim)" refText="" showInNav="yes" />
+    <page slideID="t01p029" navMenuTitle="Review Question 15" screenTitle="" bottomTitle="{nav} (Wing Flaps)" refText="" showInNav="yes" />
+    <page slideID="t01p030" navMenuTitle="Review Question 16" screenTitle="" bottomTitle="{nav} (Wing Flaps)" refText="" showInNav="yes" />
+    <page slideID="t01p031" navMenuTitle="Review Question 17" screenTitle="" bottomTitle="{nav} (Wing Flaps)" refText="" showInNav="yes" />
+    <page slideID="t01p032" navMenuTitle="Review Question 18" screenTitle="" bottomTitle="{nav} (Flight Control Lock)" refText="" showInNav="yes" />
+    <page slideID="t01p033" navMenuTitle="Review Question 19" screenTitle="" bottomTitle="{nav} (Flight Control Lock)" refText="" showInNav="yes" />
+  </topic>
+  <topic topicID="t02" slideNumStart="41" mainMenuTitle="Flight Controls" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001_i" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no">
+      <branch branchID="a">
+        <page slideID="t02p001a01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+        <page slideID="t02p001a02" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="b">
+        <page slideID="t02p001b01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="c">
+        <page slideID="t02p001c01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="d">
+        <page slideID="t02p001d01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="e">
+        <page slideID="t02p001e01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="f">
+        <page slideID="t02p001f01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+      <branch branchID="g">
+        <page slideID="t02p001g01" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+      </branch>
+    </page>
+    <page slideID="t02p002" navMenuTitle="Flight Controls" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p003" navMenuTitle="Flight Control Lock 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p004" navMenuTitle="Flight Control Lock 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p005" navMenuTitle="Flight Control Lock 1.3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p006" navMenuTitle="Flight Control Lock 1.4" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p007" navMenuTitle="Flight Control Lock 1.5" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p008" navMenuTitle="Flight Control Lock 1.6" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+  </topic>
+  <topic topicID="t03" slideNumStart="57" mainMenuTitle="Wing Flaps" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Wing Flap Operation 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Wing Flap Operation 1.2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p003" navMenuTitle="Wing Flap Operation 1.3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+  </topic>
+</lesson>

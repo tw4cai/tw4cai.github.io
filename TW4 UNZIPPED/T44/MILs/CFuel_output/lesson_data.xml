@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CFuel" lessonTitle="Fuel System" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Objectives 1 - 7" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p002" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p004" navMenuTitle="Approved Fuels" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}3.2.1 and 3.2.2" showInNav="yes" />
+    <page slideID="t01p005" navMenuTitle="Wing Tanks" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.9; Figure 2-5" showInNav="yes" />
+    <page slideID="t01p006" navMenuTitle="Wing Tanks" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.9; Figure 2-5" showInNav="no" />
+    <page slideID="t01p007_rpt" navMenuTitle="Wing Tanks" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}3.2.3" showInNav="no" />
+    <page slideID="t01p008" navMenuTitle="Wing Tanks" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p009" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}4.2.4" showInNav="yes" />
+    <page slideID="t01p010" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p011" navMenuTitle="Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p012" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}4.2.4" showInNav="yes" />
+    <page slideID="t01p013" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p014_rpt" navMenuTitle="Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.11.2" showInNav="yes" />
+    <page slideID="t01p015_rpt" navMenuTitle="Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.11.2" showInNav="no" />
+    <page slideID="t01p016_rpt" navMenuTitle="Emer. Proc. Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.11.2" showInNav="yes" />
+    <page slideID="t01p017_rpt" navMenuTitle="Emer. Proc. Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.11.2" showInNav="no" />
+    <page slideID="t01p018_rpt" navMenuTitle="Emer. Proc. Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.11.2" showInNav="no" />
+    <page slideID="t01p019_rpt" navMenuTitle="Emer. Proc. Transfer Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.11.2" showInNav="no" />
+    <page slideID="t01p020" navMenuTitle="Objective 5" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p021" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t01p022" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t01p023_rpt" navMenuTitle="Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.11.3" showInNav="yes" />
+    <page slideID="t01p024" navMenuTitle="Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p025" navMenuTitle="Emer. Proc. Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.11.3" showInNav="yes" />
+    <page slideID="t01p026_rpt" navMenuTitle="Emer. Proc. Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p027" navMenuTitle="Emer. Proc. Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p028" navMenuTitle="Emer. Proc. Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="Emer. Proc. Boost Pump Malfunction" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p030_rpt" navMenuTitle="Suction Lift Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}15.11.3" showInNav="yes" />
+    <page slideID="t01p031" navMenuTitle="Suction Lift Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}15.11.3" showInNav="no" />
+    <page slideID="t01p032" navMenuTitle="Objective 7" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.9.6" showInNav="no" />
+    <page slideID="t01p033" navMenuTitle="Crossfeed System" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.9.6" showInNav="yes" />
+    <page slideID="t01p034" navMenuTitle="Crossfeed System" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.9.6" showInNav="no" />
+    <page slideID="t01p035" navMenuTitle="Crossfeed System" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.9.6.1; Figure 2-6" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Crossfeed System" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.9.6.1; Figure 2-6" showInNav="no" />
+    <page slideID="t01p037" navMenuTitle="Crossfeed System" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.9.6.1; Figure 2-6" showInNav="no" />
+    <page slideID="t01p038" navMenuTitle="Crossfeed Light" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.16.1" showInNav="no" />
+    <page slideID="t01p039" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}7.13.1; Section 15.6" showInNav="yes" />
+    <page slideID="t01p040" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}7.13.1; Section 15.6" showInNav="no" />
+    <page slideID="t01p041" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}7.13.1; Section 15.6" showInNav="no" />
+    <page slideID="t01p042" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}7.13.1; Section 15.6" showInNav="no" />
+    <page slideID="t01p043" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}7.13.1; Section 15.6" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}7.13.1; Section 15.6" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}7.13.2; Section 15.6.1" showInNav="no" />
+    <page slideID="t01p046" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}7.13.2; Section 15.6.1" showInNav="no" />
+    <page slideID="t01p047" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}7.13.2; Section 15.6.1" showInNav="no" />
+    <page slideID="t01p048" navMenuTitle="Single Engine Crossfeed" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="{topic}7.13.2; Section 15.6.1" showInNav="yes" />
+    <page slideID="t01p049" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Components" refText="{topic}4.2.4" showInNav="yes" />
+    <page slideID="t01p050" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Approved Fuels 1.1" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p051" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Approved Fuels 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p052" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="System Operation 1.1" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="System Operation 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p054" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="System Operation 1.3" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p055" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="System Operation 1.4" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p056" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="System Operation 1.5" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Transfer Pump Malfunction 1.1" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p058" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Transfer Pump Malfunction 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Boost Pump Malfunction" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Suction Lift Limits 1.1" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p061" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Suction Lift Limits 1.2" refText="{topic}4.2.4" showInNav="no" />
+    <page slideID="t01p062" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Crossfeed System 1.1" refText="{topic}7.13.2; Section 15.6.1" showInNav="no" />
+    <page slideID="t01p063" navMenuTitle="Review Question" screenTitle="{nav}" bottomTitle="Crossfeed System 1.2" refText="{topic}7.13.2; Section 15.6.1" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="64" mainMenuTitle="Fuel System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Fuel System Diagram" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="66" mainMenuTitle="Fuel Management Panel" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Fuel Management Panel Exercise" screenTitle="{nav}" bottomTitle="Fuel Management Panel 1.1" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Fuel Management Panel" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Fuel Management Panel" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+  </topic>
+</lesson>

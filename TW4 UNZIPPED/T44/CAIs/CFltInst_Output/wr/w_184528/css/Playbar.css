@@ -1,0 +1,232 @@
+.playbar-button{
+	position:absolute;
+	display:inline;
+	background: transparent;
+    border:none;
+    background-repeat: no-repeat;
+    cursor:pointer;
+    margin:0;
+    padding:0;
+	background: transparent;
+    background-repeat: no-repeat;
+}
+
+.square-button{
+	width:23px;
+	height:21px;
+}
+.square-button:hover{ background-position: -23px 0; }
+.square-button:disabled{ background-position: -46px 0; cursor:default; }
+
+#mainMenuButton{		
+	left:205px;
+	top:28px;	
+    background-image:url(../images/btn-mainMenu.jpg);
+}
+
+#helpButton{		
+	left:260px;
+	top:28px;	
+    background-image:url(../images/btn-help.jpg);
+}
+
+#backButton{		
+	left:431px;
+	top:28px;	
+    background-image:url(../images/btn-back.jpg);
+}
+
+#repeatButton{		
+	left:499px;
+	top:28px;	
+    background-image:url(../images/btn-repeat.jpg);
+}
+
+#forwardButton{		
+	left:560px;
+	top:28px;	
+    background-image:url(../images/btn-forward.jpg);
+}
+
+#resumeButton{
+	left:710px;
+	top:28px;
+	width:33px;
+	height:19px;
+    background-image:url(../images/btn-resume.jpg);
+}
+#resumeButton:hover{ background-position: -33px 0; }
+#resumeButton:disabled{ background-position: -66px 0; cursor:default; }
+
+#exitButton{
+	left:798px;
+	top:28px;
+	width:37px;
+	height:19px;
+    background-image:url(../images/btn-exit.jpg);
+}
+#exitButton:hover{ background-position: -37px 0; }
+#exitButton:disabled{ background-position: -74px 0; cursor:default; }
+
+.text-field{
+	position:absolute;
+	font-family:arial;
+	font-size:9pt;
+	color:#00EE00;
+	padding:2px 0 0 3px;
+}
+
+#julianDate{
+	left:7px;
+	top:1px;
+	width:70px;
+	height:20px;
+}
+
+#currentSlide{
+	left:380px;
+	top:6px;
+	width:263px;
+	height:20px;
+}
+
+#topicTitle{
+	left:124px;
+	top:63px;
+	width:150px;
+	height:18px;
+}
+
+#questionID{
+	left:124px;
+	top:63px;
+	width:132px;
+	height:18px;
+}
+
+#questionCount{
+	left:262px;
+	top:63px;
+	width:112px;
+	height:18px;
+}
+
+#pageCount{
+	left:277px;
+	top:63px;
+	width:98px;
+	height:18px;
+}
+
+#screenTitle{
+	left:388px;
+	top:63px;
+	width:246px;
+	height:18px;
+}
+
+#examDate{
+	left:388px;
+	top:63px;
+	width:122px;
+	height:18px;
+}
+
+#examTime{
+	left:512px;
+	top:63px;
+	width:122px;
+	height:18px;
+}
+
+#reference{
+	left:653px;
+	top:63px;
+	width:246px;
+	height:18px;
+}
+
+#showLabelsHotspot{
+	position:absolute;
+	left:92px;
+	top:65px;
+	width:15px;
+	height:15px;	
+}
+
+#passwordDialog{
+	display:flex;
+	flex-direction:row;
+    background: url(../images/password-entry-bg.png);
+    width: 373px;
+    height: 85px;
+    left: 653px;
+    position: absolute;
+    top: 0px;
+}
+
+#passwordInput {
+	width: 180px;
+	padding: 5px 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin: 26px 5px 26px 50px;
+	height:26px;fsdfsdf
+}
+
+#passwordSubmit{
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:4px 14px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+	margin: 26px 5px 26px 0;
+	height:26px;
+	
+}
+#passwordSubmit:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+#passwordSubmit:active {
+	position:relative;
+	top:1px;
+}
+
+#passwordClose{
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #ae2020 5%, #821717 100%);
+	background-position: 2px;
+	background-color:#ae2020;
+	border-radius:3px;
+	border:1px solid #e12828;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:4px 14px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+	margin: 26px 5px 26px 0;
+	height:26px;
+}
+#passwordClose:hover {
+	background:linear-gradient(to bottom, #821717 5%, #ae2020 100%);
+	background-color:#821717;
+}
+#passwordClose:active {
+	position:relative;
+	border:1px solid #e12828;
+	top:1px;
+}
+

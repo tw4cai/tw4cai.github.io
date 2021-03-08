@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="T44CGenArcrft" lessonTitle="GENERAL AIRCRAFT" lessonType="MIL" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Objectives" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Objectives 1 - 10" screenTitle="{nav}" bottomTitle="Obj Part 1" refText="" showInNav="yes" />
+    <page slideID="t01p002" navMenuTitle="Manufacturer" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}1.1" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Mission" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}1.1" showInNav="yes" />
+    <page slideID="t01p004" navMenuTitle="Features" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}1.1" showInNav="yes" />
+    <page slideID="t01p005" navMenuTitle="Dimensions 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}1.2, Fig.1-1" showInNav="yes" />
+    <page slideID="t01p006" navMenuTitle="Dimensions" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}1.2, Fig.1-1" showInNav="no" />
+    <page slideID="t01p007" navMenuTitle="Weight Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.5" showInNav="yes" />
+    <page slideID="t01p008" navMenuTitle="Airspeed Limitations 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.1" showInNav="yes" />
+    <page slideID="t01p009" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t01p010" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t01p011" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}14-1" showInNav="no" />
+    <page slideID="t01p012" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}14-1" showInNav="no" />
+    <page slideID="t01p013" navMenuTitle="Acceleration Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.2" showInNav="yes" />
+    <page slideID="t01p014" navMenuTitle="Altitude Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.3" showInNav="yes" />
+    <page slideID="t01p015" navMenuTitle="Landing Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.6" showInNav="yes" />
+    <page slideID="t01p016" navMenuTitle="Cabin Differential" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.4.7" showInNav="yes" />
+    <page slideID="t01p017" navMenuTitle="Objectives 11 - 19" screenTitle="{nav}" bottomTitle="Obj Part 2" refText="" showInNav="yes" />
+    <page slideID="t01p018" navMenuTitle="Prohibited Maneuvers" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.6" showInNav="yes" />
+    <page slideID="t01p019" navMenuTitle="Crew Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}4.5" showInNav="yes" />
+    <page slideID="t01p020" navMenuTitle="Personnel Equipment 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.21.1" showInNav="yes" />
+    <page slideID="t01p021" navMenuTitle="Personnel Equipment" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.21.1" showInNav="no" />
+    <page slideID="t01p022" navMenuTitle="Personnel Equipment" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.21.1" showInNav="no" />
+    <page slideID="t01p023" navMenuTitle="Rescue Equipment" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.22" showInNav="yes" />
+    <page slideID="t01p024" navMenuTitle="Fire Extinguishers" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.24" showInNav="yes" />
+    <page slideID="t01p025" navMenuTitle="First-Aid Kit" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.24" showInNav="yes" />
+    <page slideID="t01p026" navMenuTitle="ELT" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.24" showInNav="yes" />
+    <page slideID="t01p027_rpt" navMenuTitle="Main Cabin Door 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.17" showInNav="yes" />
+    <page slideID="t01p028" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p029" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p030" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p031" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p032" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p033" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p034" navMenuTitle="Emergency Exit 1.1" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.17" showInNav="yes" />
+    <page slideID="t01p035" navMenuTitle="Emergency Exit" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t01p036" navMenuTitle="Review Question 1: Aircraft Description" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p037" navMenuTitle="Review Question 2: Aircraft Description" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p038" navMenuTitle="Review Question 3: Aircraft Features" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p039" navMenuTitle="Review Question 4: Aircraft Dimensions" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p040" navMenuTitle="Review Question 5: Weight Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p041" navMenuTitle="Review Question 6: Weight Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p042" navMenuTitle="Review Question 7: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p043" navMenuTitle="Review Question 8: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p044" navMenuTitle="Review Question 9: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p045" navMenuTitle="Review Question 10: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p046" navMenuTitle="Review Question 11: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p047" navMenuTitle="Review Question 12: Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p048" navMenuTitle="Review Question 13: Acceleration Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p049" navMenuTitle="Review Question 14: Altitude Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p050" navMenuTitle="Review Question 15: Landing Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p051" navMenuTitle="Review Question 16: Cabin Pressurization" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p052" navMenuTitle="Review Question 17: Maneuver Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p053" navMenuTitle="Review Question 18: Crew Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p054" navMenuTitle="Review Question 19: Crew Limitations" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p055" navMenuTitle="Review Question 20: Personnel Equipment" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p056" navMenuTitle="Review Question 21: Personnel Equipment" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p057" navMenuTitle="Review Question 22: Rescue Equipment" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p058" navMenuTitle="Review Question 23: Rescue Equipment" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p059" navMenuTitle="Review Question 24: Fire Extinguishers" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p060" navMenuTitle="Review Question 25: Fire Extinguishers" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p061" navMenuTitle="Review Question 26: First Aid Kit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p062" navMenuTitle="Review Question 27: First Aid Kit" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p063" navMenuTitle="Review Question 28: ELT" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p064" navMenuTitle="Review Question 29: ELT" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p065" navMenuTitle="Review Question 30: Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav}" refText="{topic}2.17.1" showInNav="yes" />
+  </topic>
+  <topic topicID="t02" slideNumStart="66" mainMenuTitle="Weight Limitations" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Weight Limits" screenTitle="{nav}" bottomTitle="Weight Limitations 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Weight Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p003" navMenuTitle="Weight Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="69" mainMenuTitle="Airspeed Limitations" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001_rpt" navMenuTitle="Airspeed Limits" screenTitle="{nav}" bottomTitle="Airspeed Limitations 1.1" refText="{topic}4.4.1, Fig 4.4" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t03p005" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t03p006" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}4.4.1, Fig 4.4" showInNav="no" />
+    <page slideID="t03p007" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="NATOPS: Figure 14-1" showInNav="no" />
+    <page slideID="t03p008" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="NATOPS: Figure 14-1" showInNav="no" />
+    <page slideID="t03p009" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="NATOPS: Figure 14-1" showInNav="no" />
+    <page slideID="t03p010" navMenuTitle="Airspeed Limitations" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="NATOPS: Figure 14-1" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="79" mainMenuTitle="Main Cabin Door" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t04p001_rpt" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="{topic}2.17" showInNav="yes" />
+    <page slideID="t04p002" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p003" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p004" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p007" navMenuTitle="Locking Main Cabin Door" screenTitle="{nav}" bottomTitle="Main Cabin Door 1.7" refText="{topic}" showInNav="yes" />
+    <page slideID="t04p008" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p009" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="{topic}2.17" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="Opening Main Cabin Door" screenTitle="{nav}" bottomTitle="Main Cabin Door 1.10" refText="{topic}" showInNav="yes" />
+    <page slideID="t04p011" navMenuTitle="Main Cabin Door" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="{topic}2.17" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="90" mainMenuTitle="Emergency Exit" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="NATOPS: Section " showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="Emergency Exit 1.1" refText="" showInNav="yes" />
+    <page slideID="t05p002" navMenuTitle="Emergency Exit" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="yes" />
+    <page slideID="t05p003" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.3" refText="{topic}16.11.1" showInNav="yes" />
+    <page slideID="t05p004" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.4" refText="{topic}16.11.1" showInNav="no" />
+    <page slideID="t05p005" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.5" refText="{topic}16.11.1" showInNav="no" />
+    <page slideID="t05p006" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.6" refText="{topic}16.11.1" showInNav="no" />
+    <page slideID="t05p007" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.7" refText="{topic}16.11.1" showInNav="no" />
+    <page slideID="t05p008" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.8" refText="{topic}16.11.1" showInNav="no" />
+    <page slideID="t05p009" navMenuTitle="Opening Emergency Exit" screenTitle="{nav}" bottomTitle="Emergency Exit 1.9" refText="{topic}16.11.1" showInNav="no" />
+  </topic>
+</lesson>

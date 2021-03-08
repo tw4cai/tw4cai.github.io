@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="CAutopilot" lessonTitle="Autopilot System" lessonType="CAI" allowShowLabel="yes" allowDebug="no">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Introduction" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t01p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t01p002" navMenuTitle="Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="3" mainMenuTitle="Autopilot System" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Autopilot System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="Flight Guidance Panel" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p003" navMenuTitle="Primary Flight Displays" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="Flight Directors" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p005_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.0" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Components" screenTitle="{nav}" bottomTitle="Autopilot System {nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t02p007" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t02p008" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p009" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p010" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p011" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p012" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p013" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t02p014" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t02p015" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t02p016" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t02p017" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t02p018" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t02p019" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.12" refText="" showInNav="no" />
+    <page slideID="t02p020" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.13" refText="" showInNav="no" />
+    <page slideID="t02p021" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.14" refText="" showInNav="no" />
+    <page slideID="t02p022" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.15" refText="" showInNav="no" />
+    <page slideID="t02p023" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.16" refText="" showInNav="no" />
+    <page slideID="t02p024" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.17" refText="" showInNav="no" />
+    <page slideID="t02p025" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.18" refText="" showInNav="no" />
+    <page slideID="t02p026" navMenuTitle="Autopilot System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p027_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t02p028_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t02p029_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t02p030_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t02p031_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="34" mainMenuTitle="YD/AP Disconnect / FD Sync / Go-Around Button" navMenuTitle="Yoke Controller/Go-Around Button" bottomTitle="Yoke Controller" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Yoke Controller" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t03p002" navMenuTitle="Yoke Controller" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Yoke Controller" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t03p004" navMenuTitle="Go-Around Button" screenTitle="{nav}s" bottomTitle="{nav}s" refText="" showInNav="yes" />
+    <page slideID="t03p005_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t03p006_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t03p007_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t03p008_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t03p009_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t04" slideNumStart="43" mainMenuTitle="Warnings and Cautions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="no">
+    <page slideID="t04p001" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t04p002" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t04p003" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t04p004" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t04p005" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t04p007" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t04p008" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t04p009" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.9" refText="" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.10" refText="" showInNav="no" />
+    <page slideID="t04p011" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.11" refText="" showInNav="no" />
+    <page slideID="t04p012_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.1" refText="" showInNav="no" />
+    <page slideID="t04p013_q" navMenuTitle="Review Question" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t05" slideNumStart="56" mainMenuTitle="Summary" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p002" navMenuTitle="Autopilot System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p003" navMenuTitle="Flight Directors" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p004" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t05p005" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t05p006" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+    <page slideID="t05p007" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.4" refText="" showInNav="no" />
+    <page slideID="t05p008" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.5" refText="" showInNav="no" />
+    <page slideID="t05p009" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.6" refText="" showInNav="no" />
+    <page slideID="t05p010" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.7" refText="" showInNav="no" />
+    <page slideID="t05p011" navMenuTitle="Autopilot System Components" screenTitle="{nav}" bottomTitle="{nav} 1.8" refText="" showInNav="no" />
+    <page slideID="t05p012" navMenuTitle="Autopilot System" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p013" navMenuTitle="Yoke Controller" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p014" navMenuTitle="Go-Around Button" screenTitle="{nav}s" bottomTitle="{nav}s" refText="" showInNav="yes" />
+    <page slideID="t05p015" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t05p016" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t05p017" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="{nav}" bottomTitle="{nav} 1.3" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t06" slideNumStart="73" mainMenuTitle="Review Questions" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t06p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p002_q" navMenuTitle="Autopilot System" screenTitle="" bottomTitle="Autopilot System 1.1" refText="" showInNav="yes" />
+    <page slideID="t06p003_q" navMenuTitle="Autopilot System" screenTitle="" bottomTitle="Autopilot System 1.2" refText="" showInNav="no" />
+    <page slideID="t06p004_q" navMenuTitle="Autopilot System" screenTitle="" bottomTitle="Autopilot System 1.3" refText="" showInNav="no" />
+    <page slideID="t06p005_q" navMenuTitle="Autopilot System Components" screenTitle="" bottomTitle="Autopilot System Components 1.1" refText="" showInNav="yes" />
+    <page slideID="t06p006_q" navMenuTitle="Autopilot System Components" screenTitle="" bottomTitle="Autopilot System Components 1.2" refText="" showInNav="no" />
+    <page slideID="t06p007_q" navMenuTitle="Autopilot System Components" screenTitle="" bottomTitle="Autopilot System Components 1.3" refText="" showInNav="no" />
+    <page slideID="t06p008_q" navMenuTitle="Autopilot System Components" screenTitle="" bottomTitle="Autopilot System Components 1.4" refText="" showInNav="no" />
+    <page slideID="t06p009_q" navMenuTitle="Yoke Controller" screenTitle="" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p010_q" navMenuTitle="Yoke Controller" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t06p011_q" navMenuTitle="Go-Around Button" screenTitle="" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t06p012_q" navMenuTitle="Go-Around Button" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+    <page slideID="t06p013_q" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="" bottomTitle="{nav} 1.1" refText="" showInNav="yes" />
+    <page slideID="t06p014_q" navMenuTitle="Autopilot Warnings and Cautions" screenTitle="" bottomTitle="{nav} 1.2" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t07" slideNumStart="87" mainMenuTitle="Progress Check" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" topicIsProgressCheck="yes" showInNav="no" showNavChildren="no">
+    <page slideID="t07p001" navMenuTitle="Introduction" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t07p002_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 1" refText="" showInNav="no" />
+    <page slideID="t07p003_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 2" refText="" showInNav="no" />
+    <page slideID="t07p004_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 3" refText="" showInNav="no" />
+    <page slideID="t07p005_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 4" refText="" showInNav="no" />
+    <page slideID="t07p006_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 5" refText="" showInNav="no" />
+    <page slideID="t07p007_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 6" refText="" showInNav="no" />
+    <page slideID="t07p008_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 7" refText="" showInNav="no" />
+    <page slideID="t07p009_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 8" refText="" showInNav="no" />
+    <page slideID="t07p010_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 9" refText="" showInNav="no" />
+    <page slideID="t07p011_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 10" refText="" showInNav="no" />
+    <page slideID="t07p012_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 11" refText="" showInNav="no" />
+    <page slideID="t07p013_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 12" refText="" showInNav="no" />
+    <page slideID="t07p014_q" navMenuTitle="Question" screenTitle="{nav}" bottomTitle="{nav} 13" refText="" showInNav="no" />
+    <page slideID="t07p015" navMenuTitle="Results" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>

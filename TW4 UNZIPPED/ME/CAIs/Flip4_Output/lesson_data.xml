@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson lessonID="Flip4" lessonTitle="FLIP 4" lessonType="CAI" allowShowLabel="yes" allowDebug="yes">
+  <topic topicID="t01" slideNumStart="1" mainMenuTitle="Introduction" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t01p001" navMenuTitle="Lesson Objectives" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p002" navMenuTitle="Lesson Overview" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t01p003" navMenuTitle="Lesson Overview" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t02" slideNumStart="4" mainMenuTitle="Special Use Airspace" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t02p001" navMenuTitle="Revision Cycle" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p002" navMenuTitle="General" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p003" navMenuTitle="General" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p004" navMenuTitle="General" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p005_rpt" navMenuTitle="General" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p006" navMenuTitle="Legend 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p007_rpt" navMenuTitle="Legend 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p008" navMenuTitle="Legend 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p009" navMenuTitle="Legend 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t02p010" navMenuTitle="Legend 4" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t02p011_rpt" navMenuTitle="Legend 4" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t03" slideNumStart="15" mainMenuTitle="Parachute Jumping Areas" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t03p001" navMenuTitle="Overview 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p002_rpt" navMenuTitle="Overview 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p003" navMenuTitle="Overview 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p004" navMenuTitle="Scheduling" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p005_rpt" navMenuTitle="Scheduling" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p006" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p007_rpt" navMenuTitle="Flight Plans" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p008" navMenuTitle="In Flight 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p009" navMenuTitle="In Flight 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p010_rpt" navMenuTitle="In Flight 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p011" navMenuTitle="In Flight 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t03p012" navMenuTitle="In Flight 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p013_rpt" navMenuTitle="In Flight 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t03p014" navMenuTitle="In Flight 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+  </topic>
+  <topic topicID="t04" slideNumStart="29" mainMenuTitle="Military Training Routes" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t04p001" navMenuTitle="VR General 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p002_rpt" navMenuTitle="VR General 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p003" navMenuTitle="VR General 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p004" navMenuTitle="VR General 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p005" navMenuTitle="VR General 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p006" navMenuTitle="VR General 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p007_rpt" navMenuTitle="VR General 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p008" navMenuTitle="General SR 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p009_rpt" navMenuTitle="General SR 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p010" navMenuTitle="General SR 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p011_rpt" navMenuTitle="General SR 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p012" navMenuTitle="General SR 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t04p013_rpt" navMenuTitle="General SR 3" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t04p014" navMenuTitle="General SR 4" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+  </topic>
+  <topic topicID="t05" slideNumStart="43" mainMenuTitle="Aerial Refueling Tracks/Anchors" navMenuTitle="{tmain}" bottomTitle="Aerial Refueling T/A" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t05p001" navMenuTitle="Topic General 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p002_rpt" navMenuTitle="Topic General 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p003" navMenuTitle="Topic General 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p004" navMenuTitle="MTR Refueling Terms 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p005" navMenuTitle="MTR Refueling Terms 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p006" navMenuTitle="MTR Refueling Terms 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p007_rpt" navMenuTitle="MTR Refueling Terms 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p008" navMenuTitle="MTR Refueling Terms 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p009" navMenuTitle="MTR Refueling Terms 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p010" navMenuTitle="MTR Refueling Terms 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p011_rpt" navMenuTitle="MTR Refueling Terms 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p012" navMenuTitle="MTR Refueling Anchors 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p013" navMenuTitle="MTR Refueling Anchors 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p014" navMenuTitle="MTR Refueling Anchors 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p015_rpt" navMenuTitle="MTR Refueling Anchors 1" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t05p016" navMenuTitle="MTR Refueling Anchors 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t05p017_rpt" navMenuTitle="MTR Refueling Anchors 2" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+  <topic topicID="t06" slideNumStart="60" mainMenuTitle="Lesson Summary" navMenuTitle="{tmain}" bottomTitle="{tmain}" refText="" showInNav="yes" showNavChildren="yes">
+    <page slideID="t06p001" navMenuTitle="Recap" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="yes" />
+    <page slideID="t06p002" navMenuTitle="Recap" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t06p003" navMenuTitle="Recap" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+    <page slideID="t06p004" navMenuTitle="Recap" screenTitle="{nav}" bottomTitle="{nav}" refText="" showInNav="no" />
+  </topic>
+</lesson>
